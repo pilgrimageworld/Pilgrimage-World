@@ -1,4 +1,5 @@
 import { Mail, Phone } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const Contact = () => {
   return (
@@ -21,9 +22,12 @@ const Contact = () => {
               <span className="font-semibold">info@pilgrimageworld.com</span>
             </div>
           </div>
-          <button className="mt-8 bg-white text-amber-600 px-10 py-4 rounded-full text-lg font-semibold hover:bg-gray-100 transition shadow-lg">
-            Get Free Consultation
-          </button>
+          <Link
+            to="/contact#book-now"
+            className="inline-block mt-8 bg-white text-amber-600 px-10 py-4 rounded-full text-lg font-semibold hover:bg-gray-100 transition shadow-lg"
+          >
+            Book Now
+          </Link>
         </div>
       </div>
     </section>

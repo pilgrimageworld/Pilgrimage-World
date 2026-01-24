@@ -8,40 +8,40 @@ const Navbar = () => {
   const [mobileCompanyOpen, setMobileCompanyOpen] = useState(false);
 
   const destinations = [
-    "Makkah & Madinah (Umrah)",
-    "Karbala & Najaf",
-    "Jerusalem",
-    "Vatican City",
-    "Varanasi",
-    "Bodh Gaya",
-    "Amritsar",
-    "Mount Kailash",
-    "Pashupatinath",
-    "Lumbini",
-    "Golden Temple",
-    "Ajmer Sharif",
-    "Rameshwaram",
-    "Tirupati Balaji",
-    "Vaishno Devi",
-    "Dwarka",
-    "Somnath",
-    "Kedarnath",
-    "Badrinath",
-    "Haridwar",
-    "Prayagraj",
-    "Mathura–Vrindavan",
-    "Sabarimala",
-    "Kamakhya Devi",
-    "Shirdi",
-    "Ujjain Mahakaleshwar",
-    "Kashi Vishwanath",
-    "Chardham Yatra",
+    { name: "Makkah & Madinah (Umrah)", slug: "makkah-madinah-umrah" },
+    { name: "Karbala & Najaf", slug: "karbala-najaf" },
+    { name: "Jerusalem", slug: "jerusalem" },
+    { name: "Vatican City", slug: "vatican-city" },
+    { name: "Varanasi", slug: "varanasi" },
+    { name: "Bodh Gaya", slug: "bodh-gaya" },
+    { name: "Amritsar", slug: "amritsar" },
+    { name: "Mount Kailash", slug: "mount-kailash" },
+    { name: "Pashupatinath", slug: "pashupatinath" },
+    { name: "Lumbini", slug: "lumbini" },
+    { name: "Golden Temple", slug: "golden-temple" },
+    { name: "Ajmer Sharif", slug: "ajmer-sharif" },
+    { name: "Rameshwaram", slug: "rameshwaram" },
+    { name: "Tirupati Balaji", slug: "tirupati-balaji" },
+    { name: "Vaishno Devi", slug: "vaishno-devi" },
+    { name: "Dwarka", slug: "dwarka" },
+    { name: "Somnath", slug: "somnath" },
+    { name: "Kedarnath", slug: "kedarnath" },
+    { name: "Badrinath", slug: "badrinath" },
+    { name: "Haridwar", slug: "haridwar" },
+    { name: "Prayagraj", slug: "prayagraj" },
+    { name: "Mathura–Vrindavan", slug: "mathura-vrindavan" },
+    { name: "Sabarimala", slug: "sabarimala" },
+    { name: "Kamakhya Devi", slug: "kamakhya-devi" },
+    { name: "Shirdi", slug: "shirdi" },
+    { name: "Ujjain Mahakaleshwar", slug: "ujjain-mahakaleshwar" },
+    { name: "Kashi Vishwanath", slug: "kashi-vishwanath" },
+    { name: "Chardham Yatra", slug: "chardham-yatra" },
   ];
 
   const companyLinks = [
     { name: "About Us", link: "/about" },
     { name: "Why Choose Us", link: "/why-choose-us" },
-    { name: "Testimonials", link: "testimonials" },
+    { name: "Testimonials", link: "/testimonials" },
     { name: "Contact", link: "/contact" },
   ];
 
@@ -59,12 +59,12 @@ const Navbar = () => {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-10 text-[15px] font-medium">
-            <a
-              href="#home"
+            <Link
+              to={"/"}
               className="relative text-gray-700 hover:text-amber-600 transition after:absolute after:left-0 after:-bottom-1 after:w-0 after:h-0.5 after:bg-amber-600 after:transition-all hover:after:w-full"
             >
               Home
-            </a>
+            </Link>
 
             {/* Destinations Dropdown */}
             <div className="relative group">
@@ -77,24 +77,23 @@ const Navbar = () => {
                 <ul className="grid grid-cols-3 gap-x-6 gap-y-2 w-180">
                   {destinations.map((item, index) => (
                     <li key={index}>
-                      <a
-                        href="#packages"
+                      <Link
+                        to={`/package/${item.slug}`}
                         className="block px-3 py-2 text-sm text-gray-700 rounded-lg hover:bg-amber-50 hover:text-amber-600 transition"
                       >
-                        {item}
-                      </a>
+                        {item.name}
+                      </Link>
                     </li>
                   ))}
                 </ul>
               </div>
             </div>
-
-            <a
-              href="#packages"
+            <Link
+              to="/packages"
               className="relative text-gray-700 hover:text-amber-600 transition after:absolute after:left-0 after:-bottom-1 after:w-0 after:h-0.5 after:bg-amber-600 after:transition-all hover:after:w-full"
             >
               Packages
-            </a>
+            </Link>
 
             {/* Company Dropdown */}
             <div className="relative group">
@@ -120,12 +119,12 @@ const Navbar = () => {
             </div>
 
             {/* CTA */}
-            <a
-              href="#contact"
+            <Link
+              to={"/contact/#book-now"}
               className="ml-4 bg-linear-to-r from-amber-600 to-orange-500 text-white px-7 py-3 rounded-full shadow-md hover:shadow-lg hover:scale-[1.03] transition-transform"
             >
               Book Now
-            </a>
+            </Link>
           </div>
 
           {/* Mobile Button */}
@@ -148,13 +147,13 @@ const Navbar = () => {
         <div className="md:hidden bg-white/95 backdrop-blur-lg border-t shadow-lg max-h-[calc(100vh-80px)] overflow-y-auto">
           <div className="px-6 py-6 space-y-4 text-base font-medium">
             {/* Home */}
-            <a
-              href="#home"
+            <Link
+              to={"/"}
               className="block text-gray-700 hover:text-amber-600 transition"
               onClick={() => setMobileMenuOpen(false)}
             >
               Home
-            </a>
+            </Link>
 
             {/* Destinations Accordion */}
             <div>
@@ -174,13 +173,13 @@ const Navbar = () => {
                   <ul className="space-y-1">
                     {destinations.map((item, index) => (
                       <li key={index}>
-                        <a
-                          href="#packages"
+                        <Link
+                          to={`/package/${item.slug}`}
                           className="block px-4 py-2.5 text-sm text-gray-700 hover:bg-amber-50 hover:text-amber-600 rounded-lg transition"
                           onClick={() => setMobileMenuOpen(false)}
                         >
-                          {item}
-                        </a>
+                          {item.name}
+                        </Link>
                       </li>
                     ))}
                   </ul>
@@ -189,13 +188,13 @@ const Navbar = () => {
             </div>
 
             {/* Packages */}
-            <a
-              href="#packages"
+            <Link
+              to={"/packages"}
               className="block text-gray-700 hover:text-amber-600 transition"
               onClick={() => setMobileMenuOpen(false)}
             >
               Packages
-            </a>
+            </Link>
 
             {/* Company Accordion */}
             <div>
@@ -230,13 +229,13 @@ const Navbar = () => {
             </div>
 
             {/* Book Now CTA */}
-            <a
-              href="#contact"
+            <Link
+              to={"/contact/#book-now"}
               className="block mt-4 bg-linear-to-r from-amber-600 to-orange-500 text-white px-6 py-3 rounded-full text-center shadow-md hover:shadow-lg transition"
               onClick={() => setMobileMenuOpen(false)}
             >
               Book Now
-            </a>
+            </Link>
           </div>
         </div>
       )}

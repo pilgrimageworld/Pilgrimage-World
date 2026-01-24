@@ -1,6 +1,17 @@
-import { Star, MapPin, Calendar, ArrowRight } from "lucide-react";
+// components/Packages/Packages.jsx
+import React, { useState } from "react";
+
+import Navbar from "../components/Common/Navbar";
+import Footer from "../components/Common/Footer";
+import Hero from "../components/Packages/Hero";
+import MainPackages from "../components/Packages/MainPackages";
+import CTA from "../components/Packages/CTA";
+import WhatsInclude from "../components/Packages/WhatsInclude";
 
 const Packages = () => {
+  const [filter, setFilter] = useState("all");
+  const [sortBy, setSortBy] = useState("popular");
+
   const packages = [
     {
       id: 1,
@@ -158,80 +169,33 @@ const Packages = () => {
     },
   ];
 
+  const categories = [
+    { id: "all", label: "All Packages", count: packages.length },
+    { id: "spiritual", label: "Spiritual Journeys", count: 1 },
+    { id: "religious", label: "Religious Pilgrimages", count: 3 },
+    { id: "cultural", label: "Cultural Experiences", count: 2 },
+    { id: "adventure", label: "Adventure Pilgrimages", count: 1 },
+    { id: "custom", label: "Custom Packages", count: 1 },
+  ];
+
+  const filteredPackages = packages.filter(
+    (pkg) => filter === "all" || pkg.category === filter,
+  );
+
   return (
-    <section id="packages" className="py-16 px-4 bg-white/50">
-      <div className="max-w-7xl mx-auto">
-        <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-            Our Pilgrimage Packages
-          </h2>
-          <p className="text-lg text-gray-600">
-            Carefully curated spiritual journeys for every devotee
-          </p>
-        </div>
-
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {packages.map((pkg) => (
-            <div
-              key={pkg.id}
-              className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition group cursor-pointer"
-              onClick={() => setSelectedPackage(pkg)}
-            >
-              <div className="relative overflow-hidden h-56">
-                <img
-                  src={pkg.image}
-                  alt={pkg.title}
-                  className="w-full h-full object-cover group-hover:scale-110 transition duration-500"
-                />
-              </div>
-
-              <div className="p-6">
-                <div className="flex items-center gap-1 mb-2">
-                  {[...Array(5)].map((_, i) => (
-                    <Star
-                      key={i}
-                      className={`w-4 h-4 ${i < Math.floor(pkg.rating) ? "fill-amber-400 text-amber-400" : "text-gray-300"}`}
-                    />
-                  ))}
-                  <span className="text-sm text-gray-600 ml-2">
-                    ({pkg.rating})
-                  </span>
-                </div>
-
-                <h3 className="text-2xl font-bold text-gray-800 mb-2">
-                  {pkg.title}
-                </h3>
-                <div className="flex items-center text-gray-600 mb-1">
-                  <MapPin className="w-4 h-4 mr-2" />
-                  <span className="text-sm">{pkg.location}</span>
-                </div>
-                <div className="flex items-center text-gray-600 mb-4">
-                  <Calendar className="w-4 h-4 mr-2" />
-                  <span className="text-sm">{pkg.duration}</span>
-                </div>
-
-                <ul className="space-y-2 mb-6">
-                  {pkg.highlights.slice(0, 3).map((highlight, i) => (
-                    <li
-                      key={i}
-                      className="flex items-start text-sm text-gray-600"
-                    >
-                      <span className="text-amber-600 mr-2">✓</span>
-                      {highlight}
-                    </li>
-                  ))}
-                </ul>
-
-                <button className="w-full bg-linear-to-r from-amber-600 to-orange-500 text-white py-3 rounded-xl font-semibold hover:from-amber-700 hover:to-orange-600 transition flex items-center justify-center group">
-                  View Details
-                  <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition" />
-                </button>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
+    <>
+      <Navbar />
+      <Hero />
+      <MainPackages
+        filter={filter}
+        filteredPackages={filteredPackages}
+        setFilter={setFilter}
+        categories={categories}
+      />
+      <WhatsInclude />
+      <CTA />
+      <Footer />
+    </>
   );
 };
 

@@ -1,5 +1,6 @@
 import { Globe, Heart, MapPin, Users, Search } from "lucide-react";
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -122,18 +123,18 @@ const Hero = () => {
         {/* Main Content */}
         <div className="text-center mb-12">
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="#packages"
+            <Link
+              to={"/packages"}
               className="bg-amber-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-700 transition shadow-lg hover:shadow-xl transform hover:scale-105"
             >
               Explore Packages
-            </a>
-            <a
-              href="#contact"
+            </Link>
+            <Link
+              to={"/contact"}
               className="bg-white text-amber-600 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-50 transition border-2 border-amber-600 transform hover:scale-105"
             >
               Contact Us
-            </a>
+            </Link>
           </div>
         </div>
 
