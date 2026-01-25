@@ -7,22 +7,22 @@ const Hero = () => {
 
   const heroImages = [
     {
-      url: "https://images.pexels.com/photos/32261675/pexels-photo-32261675.jpeg?_gl=1*x71x1w*_ga*NDIwNTExNTI3LjE3NjkxNTM2NzM.*_ga_8JE65Q40S6*czE3NjkxNjE4MzYkbzIkZzEkdDE3NjkxNjE5MjYkajQ3JGwwJGgw",
+      url: "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?",
       title: "Himalayan Pilgrimages",
       subtitle: "Journey to the abode of gods",
     },
     {
-      url: "https://images.pexels.com/photos/34246946/pexels-photo-34246946.jpeg?_gl=1*if2orj*_ga*NDIwNTExNTI3LjE3NjkxNTM2NzM.*_ga_8JE65Q40S6*czE3NjkxNjE4MzYkbzIkZzEkdDE3NjkxNjIwMzIkajI3JGwwJGgw",
+      url: "https://images.unsplash.com/photo-1605553378313-22d0dc541393?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Sacred Mecca & Medina",
       subtitle: "Experience spiritual awakening",
     },
     {
-      url: "https://images.pexels.com/photos/6488342/pexels-photo-6488342.jpeg?_gl=1*1dkxpvc*_ga*NDIwNTExNTI3LjE3NjkxNTM2NzM.*_ga_8JE65Q40S6*czE3NjkxNjE4MzYkbzIkZzEkdDE3NjkxNjIxNzMkajMwJGwwJGgw",
+      url: "https://images.unsplash.com/photo-1603766806347-54cdf3745953?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Divine Temples",
       subtitle: "Connect with ancient spirituality",
     },
     {
-      url: "https://images.pexels.com/photos/35444743/pexels-photo-35444743.jpeg?_gl=1*11zhxax*_ga*NDIwNTExNTI3LjE3NjkxNTM2NzM.*_ga_8JE65Q40S6*czE3NjkxNjE4MzYkbzIkZzEkdDE3NjkxNjI1NjYkajQwJGwwJGgw",
+      url: "https://images.unsplash.com/photo-1486911278844-a81c5267e227?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Mountain Sanctuaries",
       subtitle: "Find peace in sacred heights",
     },

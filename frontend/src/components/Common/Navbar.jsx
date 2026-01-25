@@ -8,7 +8,7 @@ const Navbar = () => {
   const [mobileCompanyOpen, setMobileCompanyOpen] = useState(false);
 
   const destinations = [
-    { name: "Makkah & Madinah (Umrah)", slug: "makkah-madinah-umrah" },
+    { name: "Umrah", slug: "umrah" },
     { name: "Karbala & Najaf", slug: "karbala-najaf" },
     { name: "Jerusalem", slug: "jerusalem" },
     { name: "Vatican City", slug: "vatican-city" },
@@ -74,7 +74,7 @@ const Navbar = () => {
               </button>
 
               <div className="absolute top-full left-0 mt-4 bg-white rounded-2xl shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 p-4">
-                <ul className="grid grid-cols-3 gap-x-6 gap-y-2 w-180">
+                <ul className="grid grid-cols-3 gap-x-6 gap-y-2 w-124">
                   {destinations.map((item, index) => (
                     <li key={index}>
                       <Link
