@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "slug": "do-dham-yatra",
+    "title": "Do Dham Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Kedarnath & Badrinath",
+    "region": "Uttarakhand Himalayas",
+    "duration": "6 Days / 5 Nights",
+    "image": "https://amazinghotels.co.in/wp-content/uploads/2025/04/Badrinath-Dham-Yatra.webp",
+    "bestSeason": ["May-June", "September-October"],
+    "rating": 5.0,
+    "reviewCount": 128,
+    "highlights": [
+      "Helicopter service available",
+      "Premium accommodation",
+      "Experienced guides",
+      "All meals included"
+    ],
+    "description": "Embark on a divine journey to two of the holiest shrines in the Himalayas - Kedarnath and Badrinath. This spiritual yatra offers a perfect blend of devotion and comfort, with expert guidance and modern amenities.",
+    "detailedDescription": "The Do Dham Yatra is a sacred pilgrimage to Kedarnath (abode of Lord Shiva) and Badrinath (abode of Lord Vishnu). Our meticulously planned package ensures a seamless spiritual experience with comfortable stays, hygienic meals, and expert guidance. Includes VIP darshan, cultural insights, and medical support.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival in Haridwar",
+        "description": "Arrive at Haridwar Railway Station/Airport. Transfer to hotel. Evening Ganga Aarti at Har Ki Pauri. Overnight stay in Haridwar.",
+        "accommodation": "3-star hotel in Haridwar",
+        "meals": "Dinner"
+      },
+      {
+        "day": "Day 2",
+        "title": "Haridwar to Guptkashi",
+        "description": "Morning drive to Guptkashi (approx. 8-9 hours). Enroute visit Devprayag (confluence of Alaknanda and Bhagirathi rivers). Check into hotel. Overnight stay.",
+        "accommodation": "Premium hotel in Guptkashi",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": "Day 3",
+        "title": "Guptkashi to Kedarnath",
+        "description": "Morning drive to Sonprayag. From here, take shared jeep to Gaurikund. Trek or helicopter to Kedarnath Temple. Evening darshan and aarti. Overnight stay.",
+        "accommodation": "Tented accommodation/Guest house",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": "Day 4",
+        "title": "Kedarnath to Badrinath",
+        "description": "Morning darshan and puja. Return to Guptkashi. Drive to Badrinath via Joshimath. Evening arrival and check-in.",
+        "accommodation": "Premium hotel in Badrinath",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": "Day 5",
+        "title": "Badrinath Darshan",
+        "description": "Morning darshan at Badrinath Temple. Visit Mana Village (last Indian village), Vyas Gufa, and Ganesh Gufa. Evening attend aarti. Overnight stay.",
+        "accommodation": "Premium hotel in Badrinath",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": "Day 6",
+        "title": "Badrinath to Haridwar & Departure",
+        "description": "Morning visit to Tapt Kund. Drive back to Haridwar. Drop at Haridwar Railway Station/Airport for onward journey.",
+        "accommodation": "None",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Accommodation in 3-star and premium hotels",
+      "All meals (vegetarian) as per itinerary",
+      "AC transport throughout the journey",
+      "Helicopter service for Kedarnath (optional)",
+      "Experienced tour guide",
+      "Medical kit and oxygen support",
+      "All toll taxes, parking, and driver allowances",
+      "VIP darshan passes where available"
+    ],
+    "exclusions": [
+      "Travel insurance",
+      "Personal expenses",
+      "Pony/Palki/Porter charges",
+      "Any additional accommodation/tours",
+      "GST @ 5%",
+      "Anything not mentioned in inclusions"
+    ],
+    "importantNotes": [
+      "Minimum age: 12 years",
+      "Medical certificate required",
+      "Warm clothing recommended",
+      "Carry valid ID proof",
+      "Flexible itinerary based on weather conditions"
+    ],
+    
+    "amenities": [
+      "Medical Support Team",
+      "Oxygen Cylinders",
+      "WiFi at Hotels",
+      "Hot Water",
+      "Luggage Assistance",
+      "24/7 Support"
+    ],
+    "transportation": "AC Tempo Traveller/Innova",
+    "meals": "Vegetarian meals (Breakfast, Lunch, Dinner)",
+    "accommodation": "3-star & Premium Hotels",
+    "spiritualGuide": "Yes (Experienced Pandit)"
+  },
+  {
+    "id": 2,
+    "slug": "char-dham-yatra",
+    "title": "Char Dham Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Complete Uttarakhand Circuit",
+    "region": "Garhwal Himalayas",
+    "duration": "12 Days / 11 Nights",
+    "image": "https://images.unsplash.com/photo-1706790574525-d218c4c52b5c?q=80&w=1170&auto=format&fit=crop&w=1200&60",
+    "difficulty": "Challenging",
+    "bestSeason": ["May-June", "September-October"],
+    "rating": 5.0,
+    "reviewCount": 256,
+    "highlights": [
+      "All four dhams covered",
+      "Luxury hotels",
+      "Medical support",
+      "Cultural programs"
+    ],
+    "description": "Complete spiritual journey covering Yamunotri, Gangotri, Kedarnath, and Badrinath. Experience the ultimate Hindu pilgrimage with luxury comforts and expert guidance.",
+    "detailedDescription": "The Char Dham Yatra is the most sacred Hindu pilgrimage covering four divine abodes in the Himalayas. This comprehensive package offers spiritual enlightenment with modern amenities, ensuring a comfortable and meaningful journey.",
+    "itinerary": [
+      {
+        "day": "Day 1-2",
+        "title": "Delhi to Yamunotri",
+        "description": "Travel to Yamunotri via Haridwar and Barkot. Visit Yamunotri Temple and Surya Kund.",
+        "accommodation": "Premium hotels",
+        "meals": "All meals"
+      }
+    ],
+    "inclusions": [
+      "Luxury accommodation",
+      "All vegetarian meals",
+      "AC transport throughout",
+      "Medical team with oxygen",
+      "Cultural programs",
+      "VIP darshan arrangements"
+    ],
+    "exclusions": [
+      "Personal expenses",
+      "Travel insurance",
+      "Pony/Palki charges",
+      "GST @ 5%"
+    ],
+    "amenities": [
+      "Luxury Transport",
+      "Medical Team",
+      "Cultural Shows",
+      "Spa Services",
+      "WiFi Connectivity"
+    ],
+    "transportation": "Luxury AC Coach",
+    "meals": "Premium Vegetarian Meals",
+    "accommodation": "4-star & Luxury Hotels",
+    "spiritualGuide": "Yes (Senior Pandit)"
+  },
+  {
+    "id": 3,
+    "slug": "hajj-package",
+    "title": "Hajj Package",
+    "category": "religious",
+    "subcategory": "Islamic Pilgrimage",
+    "location": "Mecca & Medina",
+    "region": "Saudi Arabia",
+    "duration": "15 Days / 14 Nights",
+    "image": "https://images.unsplash.com/photo-1605553378313-22d0dc541393?q=80&w=1974&auto=format&fit=crop&w=1200&60",
+    "difficulty": "Moderate",
+    "bestSeason": ["Islamic month of Dhu al-Hijjah"],
+    "rating": 5.0,
+    "reviewCount": 89,
+    "highlights": [
+      "Ministry approved",
+      "5-star hotels",
+      "Experienced mutawwif",
+      "Group coordination"
+    ],
+    "description": "Government-approved Hajj package with 5-star accommodations near Haram, experienced Mutawwif, and complete logistical support for a blessed pilgrimage.",
+    "detailedDescription": "Our Hajj package is approved by the Saudi Ministry of Hajj and Umrah. We provide premium accommodation within walking distance of Haram, experienced Mutawwif for guidance, medical support, and complete assistance throughout your spiritual journey.",
+    "amenities": [
+      "5-star Hotel near Haram",
+      "Medical Clinic",
+      "Zamzam Water",
+      "Quran & Prayer Mats",
+      "Translation Services"
+    ],
+    "transportation": "AC Buses",
+    "meals": "Halal Buffet Meals",
+    "accommodation": "5-star Hotels",
+    "spiritualGuide": "Yes (Experienced Mutawwif)"
+  },
+  {
+    "id": 4,
+    "slug": "umrah-package",
+    "title": "Umrah Package",
+    "category": "religious",
+    "subcategory": "Islamic Pilgrimage",
+    "location": "Mecca & Medina",
+    "region": "Saudi Arabia",
+    "duration": "10 Days / 9 Nights",
+    "image": "https://images.unsplash.com/photo-1580418827493-f2b22c0a76cb?auto=format&fit=crop&w=1200&q=60",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round except Hajj season"],
+    "rating": 5.0,
+    "reviewCount": 156,
+    "highlights": [
+      "Year-round availability",
+      "Ziyarat tours included",
+      "Comfortable transport",
+      "Spiritual guidance"
+    ],
+    "description": "Comfortable Umrah package with Ziyarat tours, spiritual guidance, and premium accommodation for a blessed pilgrimage experience.",
+    "amenities": [
+      "4-star Hotels",
+      "Ziyarat Tours",
+      "Medical Assistance",
+      "Spiritual Lectures"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Halal Meals",
+    "accommodation": "4-star Hotels",
+    "spiritualGuide": "Yes (Islamic Scholar)"
+  },
+  {
+    "id": 5,
+    "slug": "kailash-mansarovar",
+    "title": "Kailash Mansarovar",
+    "category": "religious",
+    "subcategory": "Multi-faith Pilgrimage",
+    "location": "Tibet, China",
+    "region": "Trans-Himalayas",
+    "duration": "14 Days / 13 Nights",
+    "image": "https://images.unsplash.com/photo-1606163338600-0e212c836bb3?q=80&w=1170&auto=format&fit=crop&w=1200&q=60",
+    "difficulty": "Challenging",
+    "bestSeason": ["May-September"],
+    "rating": 5.0,
+    "reviewCount": 67,
+    "highlights": [
+      "Sacred parikrama",
+      "Medical team",
+      "Oxygen support",
+      "Permits included"
+    ],
+    "description": "Sacred journey to Mount Kailash and Lake Mansarovar, revered by Hindus, Buddhists, Jains, and Bonpos. Complete permit assistance and medical support.",
+    "amenities": [
+      "Oxygen Support",
+      "Medical Team",
+      "Trekking Equipment",
+      "Permit Assistance"
+    ],
+    "transportation": "AC Coach & Land Cruiser",
+    "meals": "Vegetarian & Chinese",
+    "accommodation": "Hotels & Guest Houses",
+    "spiritualGuide": "Yes (Multi-faith Guide)"
+  },
+  {
+    "id": 6,
+    "slug": "vaishno-devi-yatra",
+    "title": "Vaishno Devi Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Jammu & Kashmir",
+    "region": "Trikuta Mountains",
+    "duration": "4 Days / 3 Nights",
+    "image": "https://images.unsplash.com/photo-1719377678428-d9bcec6976f3?q=80&w=1931&auto=format&fit=crop&w=1200&q=60",
+    "difficulty": "Easy to Moderate",
+    "bestSeason": ["Year-round", "Best: March-October"],
+    "rating": 5.0,
+    "reviewCount": 312,
+    "highlights": [
+      "Helicopter options",
+      "VIP darshan",
+      "Comfortable hotels",
+      "Local sightseeing"
+    ],
+    "description": "Blessed journey to Mata Vaishno Devi shrine with helicopter options, VIP darshan, and comfortable accommodation for a divine experience.",
+    "amenities": [
+      "Helicopter Booking",
+      "VIP Darshan",
+      "Pony/Palki Arrangement",
+      "Medical Support"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Local Guide)"
+  },
+  {
+    "id": 7,
+    "slug": "amarnath-yatra",
+    "title": "Amarnath Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Jammu & Kashmir",
+    "region": "Himalayas",
+    "duration": "7 Days / 6 Nights",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS0DgJujf_00a7Wz5zxwfxvmXnWfsKZNIN7UaRCE8fLd7UdnOwVUp3uV9TW-sirb-Bwt5eqYynnv46VeJ6KInxPyiqP6Pu4ik-Y2t7zrf977y0fqcOP65NwL3xSs6GlQxkA2Ptof056rQ/s1600/Lord_Amarnath.jpg",
+    "difficulty": "Challenging",
+    "bestSeason": ["July-August"],
+    "rating": 5.0,
+    "reviewCount": 178,
+    "highlights": [
+      "Helicopter & trekking options",
+      "Medical assistance",
+      "Secure base camps",
+      "Experienced yatra guides"
+    ],
+    "description": "Sacred pilgrimage to the Amarnath Cave to witness the natural ice Shiva Lingam. Complete medical support and secure arrangements.",
+    "amenities": [
+      "Medical Camp",
+      "Oxygen Support",
+      "Base Camp Facilities",
+      "Security Arrangements"
+    ],
+    "transportation": "Helicopter/Jeep/Trek",
+    "meals": "Langar & Packed Meals",
+    "accommodation": "Tented Camps",
+    "spiritualGuide": "Yes (Yatra Guide)"
+  },
+  {
+    "id": 8,
+    "slug": "vrindavan-mathura-yatra",
+    "title": "Vrindavan Mathura Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Uttar Pradesh",
+    "region": "Braj Bhoomi",
+    "duration": "3 Days / 2 Nights",
+    "image": "https://images.unsplash.com/photo-1662376107358-21296a9234f1?q=80&w=2126&auto=format&fit=crop&w=1200&q=60",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round", "Best: Jan-March, Sep-Dec"],
+    "rating": 5.0,
+    "reviewCount": 234,
+    "highlights": [
+      "Krishna Janmabhoomi visit",
+      "Banke Bihari ji darshan",
+      "Yamuna aarti",
+      "Comfortable stay"
+    ],
+    "description": "Divine journey to the land of Lord Krishna - Mathura and Vrindavan. Experience the spiritual bliss of Braj Bhoomi with comfortable stays.",
+    "amenities": [
+      "Temple Darshan",
+      "Cultural Programs",
+      "Local Guide",
+      "Comfort Transport"
+    ],
+    "transportation": "AC Coach",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Braj Guide)"
+  },
+  {
+    "id": 9,
+    "slug": "golden-temple-yatra",
+    "title": "Golden Temple Yatra",
+    "category": "religious",
+    "subcategory": "Sikh Pilgrimage",
+    "location": "Amritsar, Punjab",
+    "region": "Punjab Plains",
+    "duration": "3 Days / 2 Nights",
+    "image": "https://images.unsplash.com/photo-1623059508779-2542c6e83753?q=80&w=627&auto=format&fit=crop&w=1200&q=60",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round"],
+    "rating": 5.0,
+    "reviewCount": 189,
+    "highlights": [
+      "Sri Harmandir Sahib visit",
+      "Langar experience",
+      "Wagah Border ceremony",
+      "City sightseeing"
+    ],
+    "description": "Spiritual journey to the holiest Sikh shrine - Golden Temple. Includes langar seva, Wagah Border ceremony, and city tour.",
+    "amenities": [
+      "Langar Participation",
+      "Wagah Border Visit",
+      "City Tour",
+      "Cultural Show"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Langar & Hotel Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Sikh Scholar)"
+  },
+  {
+    "id": 10,
+    "slug": "ayodhya-ram-mandir-yatra",
+    "title": "Ayodhya Ram Mandir Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Ayodhya, Uttar Pradesh",
+    "region": "Awadh Region",
+    "duration": "2 Days / 1 Night",
+    "image": "https://www.kailash-yatra.org/images/ayodhya-ram-mandir-banner.jpg",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round"],
+    "rating": 5.0,
+    "reviewCount": 412,
+    "highlights": [
+      "Ram Mandir darshan",
+      "Saryu river aarti",
+      "Local temple visits",
+      "Comfortable stay"
+    ],
+    "description": "Historic pilgrimage to the newly constructed Ram Mandir in Ayodhya. Experience the divine aura of Lord Rama's birthplace.",
+    "amenities": [
+      "VIP Darshan",
+      "Saryu Aarti",
+      "Temple Tour",
+      "Cultural Experience"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Ramayana Scholar)"
+  },
+  {
+    "id": 11,
+    "slug": "kashi-vishwanath-yatra",
+    "title": "Kashi Vishwanath Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Varanasi, Uttar Pradesh",
+    "region": "Ganges Plains",
+    "duration": "3 Days / 2 Nights",
+    "image": "https://kashiyatra.in/wp-content/uploads/2023/02/kashi-vishwanath-temple.webp",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round", "Best: Oct-March"],
+    "rating": 5.0,
+    "reviewCount": 278,
+    "highlights": [
+      "Kashi Vishwanath darshan",
+      "Ganga aarti",
+      "Boat ride",
+      "Spiritual walkthrough"
+    ],
+    "description": "Divine journey to the eternal city of Varanasi and the sacred Kashi Vishwanath Temple. Experience Ganga aarti and spiritual enlightenment.",
+    "amenities": [
+      "Ganga Aarti",
+      "Boat Ride",
+      "Temple Darshan",
+      "Spiritual Walk"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Varanasi Pandit)"
+  },
+  {
+    "id": 12,
+    "slug": "tirupati-balaji-yatra",
+    "title": "Tirupati Balaji Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Tirupati, Andhra Pradesh",
+    "region": "Tirumala Hills",
+    "duration": "3 Days / 2 Nights",
+    "image": "https://balajitravelschennai.com/blog/wp-content/uploads/2025/04/Untold-Stories-and-Wonders-of-Tirupati-Balaji-Temple.jpg",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round"],
+    "rating": 5.0,
+    "reviewCount": 356,
+    "highlights": [
+      "VIP darshan",
+      "Comfortable hotels",
+      "Local sightseeing",
+      "Temple rituals assistance"
+    ],
+    "description": "Blessed pilgrimage to Tirumala Venkateswara Temple with VIP darshan passes and complete ritual assistance for a divine experience.",
+    "amenities": [
+      "VIP Darshan",
+      "Seva Tickets",
+      "Hair Tonsuring",
+      "Prasadam Distribution"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Satvik Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Temple Priest)"
+  },
+  {
+    "id": 13,
+    "slug": "shirdi-sai-baba-yatra",
+    "title": "Shirdi Sai Baba Yatra",
+    "category": "religious",
+    "subcategory": "Multi-faith Pilgrimage",
+    "location": "Shirdi, Maharashtra",
+    "region": "Western Maharashtra",
+    "duration": "3 Days / 2 Nights",
+    "image": "https://content.jdmagicbox.com/v2/comp/mumbai/z2/022pxx22.xx22.221117045316.t5z2/catalogue/shirdi-shri-sai-baba-temple-mumbai-temples-D4VGxNgL2D.jpg?w=1920&q=75",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round"],
+    "rating": 5.0,
+    "reviewCount": 423,
+    "highlights": [
+      "Sai Baba Samadhi darshan",
+      "Shej aarti",
+      "Temple rituals",
+      "Comfort stay"
+    ],
+    "description": "Spiritual journey to Shirdi Sai Baba Temple. Experience the divine blessings of Sai Baba with comfortable accommodation and guided rituals.",
+    "amenities": [
+      "Aarti Participation",
+      "Prasadam",
+      "Temple Guide",
+      "Cultural Program"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Sai Devotee Guide)"
+  },
+  {
+    "id": 14,
+    "slug": "rameshwaram-yatra",
+    "title": "Rameshwaram Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Tamil Nadu",
+    "region": "Coastal Tamil Nadu",
+    "duration": "4 Days / 3 Nights",
+    "image": "https://tamilnadutourisminfo.com/wp-content/uploads/2019/10/Rameswaram_ramanathaswamy_temple-1.webp",
+    "difficulty": "Easy",
+    "bestSeason": ["Oct-Mar"],
+    "rating": 5.0,
+    "reviewCount": 167,
+    "highlights": [
+      "Ramanathaswamy Temple",
+      "22 kund snan",
+      "Dhanushkodi visit",
+      "Guided rituals"
+    ],
+    "description": "Sacred pilgrimage to Rameshwaram, one of the Char Dhams. Experience the 22 holy kunds and visit the ghost town of Dhanushkodi.",
+    "amenities": [
+      "Kund Snan Guide",
+      "Temple Rituals",
+      "Beach Visit",
+      "Local Sightseeing"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Temple Priest)"
+  },
+  {
+    "id": 15,
+    "slug": "dwarka-somnath-yatra",
+    "title": "Dwarka Somnath Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Gujarat",
+    "region": "Saurashtra Coast",
+    "duration": "5 Days / 4 Nights",
+    "image": "https://www.oneindiatourism.com/wp-content/uploads/2021/09/Somnath_Somnath_Temple.jpg",
+    "difficulty": "Easy",
+    "bestSeason": ["Oct-Mar"],
+    "rating": 5.0,
+    "reviewCount": 189,
+    "highlights": [
+      "Dwarkadhish Temple",
+      "Somnath Jyotirlinga",
+      "Bet Dwarka visit",
+      "Coastal sightseeing"
+    ],
+    "description": "Divine journey to Dwarka (Lord Krishna's kingdom) and Somnath (first Jyotirlinga). Experience coastal spirituality and historical temples.",
+    "amenities": [
+      "Boat to Bet Dwarka",
+      "Temple Darshan",
+      "Beach Visit",
+      "Cultural Program"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Krishna Guide)"
+  },
+  {
+    "id": 16,
+    "slug": "ujjain-mahakal-yatra",
+    "title": "Ujjain Mahakal Yatra",
+    "category": "religious",
+    "subcategory": "Hindu Pilgrimage",
+    "location": "Ujjain, Madhya Pradesh",
+    "region": "Malwa Region",
+    "duration": "2 Days / 1 Night",
+    "image": "https://www.ujjaindarshan.com/wp-content/uploads/2025/04/main-qimg-110921dd6ebf30e537a684118672a4a2-1.webp",
+    "difficulty": "Easy",
+    "bestSeason": ["Year-round"],
+    "rating": 5.0,
+    "reviewCount": 156,
+    "highlights": [
+      "Mahakaleshwar Jyotirlinga",
+      "Bhasma aarti",
+      "Temple corridor visit",
+      "Local sightseeing"
+    ],
+    "description": "Sacred journey to Mahakaleshwar Jyotirlinga in Ujjain. Witness the unique Bhasma Aarti and explore the temple corridor.",
+    "amenities": [
+      "Bhasma Aarti Pass",
+      "Temple Corridor Tour",
+      "Local Guide",
+      "Cultural Experience"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Temple Priest)"
+  },
+  {
+    "id": 17,
+    "slug": "bodh-gaya-buddhist-circuit",
+    "title": "Bodh Gaya Buddhist Circuit",
+    "category": "religious",
+    "subcategory": "Buddhist Pilgrimage",
+    "location": "Bihar",
+    "region": "Gaya District",
+    "duration": "4 Days / 3 Nights",
+    "image": "https://www.buddhisttourism.online/assets/images/bodh-gaya-banner4.webp",
+    "difficulty": "Easy",
+    "bestSeason": ["Oct-Mar"],
+    "rating": 5.0,
+    "reviewCount": 98,
+    "highlights": [
+      "Mahabodhi Temple",
+      "Meditation sessions",
+      "Monastery visits",
+      "Spiritual guidance"
+    ],
+    "description": "Spiritual journey to Bodh Gaya where Lord Buddha attained enlightenment. Includes meditation sessions and monastery visits.",
+    "amenities": [
+      "Meditation Sessions",
+      "Monastery Visits",
+      "Buddhist Guide",
+      "Cultural Program"
+    ],
+    "transportation": "AC Transport",
+    "meals": "Vegetarian Meals",
+    "accommodation": "3-star Hotels",
+    "spiritualGuide": "Yes (Buddhist Monk)"
+  },
+  {
+    "id": 18,
+    "slug": "hemkund-sahib-yatra",
+    "title": "Hemkund Sahib Yatra",
+    "category": "religious",
+    "subcategory": "Sikh Pilgrimage",
+    "location": "Uttarakhand",
+    "region": "Garhwal Himalayas",
+    "duration": "6 Days / 5 Nights",
+    "image": "https://www.chardham-pilgrimage-tour.com/assets/images/hemkund-banner1.webp",
+    "difficulty": "Challenging",
+    "bestSeason": ["June-September"],
+    "rating": 5.0,
+    "reviewCount": 112,
+    "highlights": [
+      "Hemkund Sahib Gurudwara",
+      "High-altitude trek",
+      "Medical support",
+      "Experienced guides"
+    ],
+    "description": "Challenging pilgrimage to Hemkund Sahib (4,329m) located beside a glacial lake. Complete trekking support and medical assistance.",
+    "amenities": [
+      "Trekking Guide",
+      "Medical Support",
+      "Pony Arrangement",
+      "High-altitude Gear"
+    ],
+    "transportation": "Jeep & Trek",
+    "meals": "Langar & Packed Food",
+    "accommodation": "Guest Houses & Tents",
+    "spiritualGuide": "Yes (Sikh Guide)"
+  }
+]

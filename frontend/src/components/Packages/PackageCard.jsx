@@ -1,12 +1,18 @@
 import { ArrowRight, Calendar, MapPin, Star } from "lucide-react";
 import PackageHighlights from "./PackageHighlights";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
-const PackageCard = ({ pkg, onSelect }) => {
+const PackageCard = ({ pkg }) => {
+  const navigate = useNavigate();
+
+  const handleNavigate = () => {
+    navigate(`/package/${pkg.slug}`);
+  };
+
   return (
     <div
       className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition group cursor-pointer"
-      onClick={() => onSelect(pkg)}
+      onClick={handleNavigate}
     >
       <PackageImage image={pkg.image} alt={pkg.title} />
 
@@ -19,7 +25,10 @@ const PackageCard = ({ pkg, onSelect }) => {
 
         <PackageHighlights highlights={pkg.highlights} />
 
-        <ViewDetailsButton slug={pkg.slug} />
+        {/* Prevent double navigation when clicking button */}
+        <div onClick={(e) => e.stopPropagation()}>
+          <ViewDetailsButton slug={pkg.slug} />
+        </div>
       </div>
     </div>
   );
@@ -62,7 +71,7 @@ const PackageInfo = ({ location, duration }) => (
 
 const ViewDetailsButton = ({ slug }) => (
   <Link
-    to={`/${slug}`}
+    to={`/package/${slug}`}
     className="w-full bg-linear-to-r from-amber-600 to-orange-500 text-white py-3 rounded-xl font-semibold hover:from-amber-700 hover:to-orange-600 transition flex items-center justify-center group cursor-pointer"
   >
     View Details
