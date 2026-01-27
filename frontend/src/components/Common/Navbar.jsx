@@ -8,7 +8,8 @@ const Navbar = () => {
   const [mobileCompanyOpen, setMobileCompanyOpen] = useState(false);
 
   const destinations = [
-    { name: "Umrah", slug: "umrah" },
+    { name: "Umrah", slug: "umrah-package" },
+    { name: "Hajj", slug: "hajj-package" },
     { name: "Karbala & Najaf", slug: "karbala-najaf" },
     { name: "Jerusalem", slug: "jerusalem" },
     { name: "Vatican City", slug: "vatican-city" },
@@ -35,7 +36,7 @@ const Navbar = () => {
     { name: "Shirdi", slug: "shirdi" },
     { name: "Ujjain Mahakaleshwar", slug: "ujjain-mahakaleshwar" },
     { name: "Kashi Vishwanath", slug: "kashi-vishwanath" },
-    { name: "Chardham Yatra", slug: "chardham-yatra" },
+    { name: "Chardham Yatra", slug: "char-dham-yatra" },
   ];
 
   const companyLinks = [

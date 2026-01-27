@@ -1,19 +1,4 @@
-import { useParams, Link } from "react-router-dom";
-import {
-  MapPin,
-  Calendar,
-  ArrowLeft,
-  Star,
-  Users,
-  CheckCircle,
-  Shield,
-  Heart,
-  Globe,
-  Clock,
-  Home,
-  Car,
-  Utensils,
-} from "lucide-react";
+import { useParams } from "react-router-dom";
 
 import Navbar from "../components/Common/Navbar";
 import Footer from "../components/Common/Footer";
@@ -74,48 +59,51 @@ const PackageDetails = () => {
         reviewCount={reviewCount}
       />
 
-      {/* Main Content */}
-      <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
-        <div className="grid lg:grid-cols-3 gap-8">
-          {/* Left Column - Main Content */}
-          <div className="lg:col-span-2 space-y-12">
-            {/* Package Description */}
-            <PackageDescriptions
-              category={category}
-              subcategory={subcategory}
-              bestSeason={bestSeason}
-              description={description}
-              detailedDescription={detailedDescription}
-              difficulty={difficulty}
-              highlights={highlights}
-            />
+      {/* Add overflow-x-hidden to prevent horizontal scroll */}
+      <div className="overflow-x-hidden">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12 lg:py-16">
+          {/* Change px-4 to responsive padding */}
+          <div className="grid lg:grid-cols-3 gap-6 md:gap-8">
+            {/* Left Column - Main Content */}
+            <div className="lg:col-span-2 space-y-8 md:space-y-12">
+              {/* Package Description */}
+              <PackageDescriptions
+                category={category}
+                subcategory={subcategory}
+                bestSeason={bestSeason}
+                description={description}
+                detailedDescription={detailedDescription}
+                difficulty={difficulty}
+                highlights={highlights}
+              />
 
-            {/* Itinerary */}
-            <Itinerary itinerary={itinerary} />
+              {/* Itinerary */}
+              <Itinerary itinerary={itinerary} />
 
-            {/* Inclusions & Exclusions */}
-            <InclusionsExclusions
-              inclusions={inclusions}
-              exclusions={exclusions}
-            />
+              {/* Inclusions & Exclusions */}
+              <InclusionsExclusions
+                inclusions={inclusions}
+                exclusions={exclusions}
+              />
 
-            <Amenities
-              amenities={amenities}
-              transportation={transportation}
-              meals={meals}
-              accommodation={accommodation}
-            />
+              <Amenities
+                amenities={amenities}
+                transportation={transportation}
+                meals={meals}
+                accommodation={accommodation}
+              />
 
-            <ImportantDetails importantNotes={importantNotes} />
+              <ImportantDetails importantNotes={importantNotes} />
+            </div>
+
+            {/* Right Column - Sidebar */}
+            <Sidebar />
           </div>
-
-          {/* Right Column - Sidebar */}
-          <Sidebar />
         </div>
-      </div>
 
-      {/* Testimonial Banner */}
-      <Testimonial />
+        {/* Testimonial Banner */}
+        <Testimonial />
+      </div>
 
       <Footer />
     </>

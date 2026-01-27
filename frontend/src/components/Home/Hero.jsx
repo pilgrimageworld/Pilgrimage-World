@@ -22,9 +22,9 @@ const Hero = () => {
       subtitle: "Connect with ancient spirituality",
     },
     {
-      url: "https://images.unsplash.com/photo-1486911278844-a81c5267e227?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Mountain Sanctuaries",
-      subtitle: "Find peace in sacred heights",
+      url: "https://images.unsplash.com/photo-1629953031870-02be15a295ee?q=80&w=1192&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      title: "Buddhist Heritage",
+      subtitle: "Walk the path of mindfulness and peace",
     },
   ];
 
@@ -91,7 +91,7 @@ const Hero = () => {
           ))}
 
           {/* Search Bar */}
-          <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 px-4 z-20">
+          {/* <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 px-4 z-20">
             <div className="mx-auto w-full sm:w-105 md:w-130">
               <div className="flex items-center bg-white rounded-full shadow-xl overflow-hidden">
                 <input
@@ -104,7 +104,7 @@ const Hero = () => {
                 </button>
               </div>
             </div>
-          </div>
+          </div> */}
 
           {/* Dots Indicator */}
           <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex gap-2">
