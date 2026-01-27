@@ -2,7 +2,7 @@ import { Heart } from "lucide-react";
 
 const Testimonial = () => {
   return (
-    <div className="bg-gradient-to-r from-amber-600 to-orange-500 py-8 md:py-12 overflow-x-hidden">
+    <div className="bg-linear-to-r from-amber-600 to-orange-500 py-8 md:py-12 overflow-x-hidden">
       {/* Add overflow-x-hidden */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
         {/* Add responsive padding */}

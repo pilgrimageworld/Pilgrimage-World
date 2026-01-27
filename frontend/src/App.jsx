@@ -8,6 +8,7 @@ import Testimonials from "./pages/Testimonials";
 import Contact from "./pages/Contact";
 import Packages from "./pages/Packages";
 import PackageDetails from "./pages/PackageDetails";
+import PageNotFound from "./pages/PageNotFound";
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
       <Route path="/why-choose-us" element={<WhyChooseUs />} />
       <Route path="/testimonials" element={<Testimonials />} />
       <Route path="/contact" element={<Contact />} />
-      {/* <Route path="*" element={<NotFound />} /> */}
+      <Route path="*" element={<PageNotFound />} />
     </Routes>
   );
 }

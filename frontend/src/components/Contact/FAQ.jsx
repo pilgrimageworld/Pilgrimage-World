@@ -18,11 +18,6 @@ const FAQSection = () => {
       answer:
         "Absolutely! We specialize in creating personalized spiritual journeys tailored to your specific needs and preferences.",
     },
-    {
-      question: "What is your cancellation policy?",
-      answer:
-        "We offer flexible cancellation policies with full refunds up to 60 days before departure. Please contact us for specific details.",
-    },
   ];
 
   return (
