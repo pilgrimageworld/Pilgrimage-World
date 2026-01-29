@@ -3,12 +3,13 @@
     "id": 1,
     "slug": "do-dham-yatra",
     "title": "Do Dham Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
+    "difficulty": "Moderate",
     "location": "Kedarnath & Badrinath",
     "region": "Uttarakhand Himalayas",
     "duration": "6 Days / 5 Nights",
-    "image": "https://amazinghotels.co.in/wp-content/uploads/2025/04/Badrinath-Dham-Yatra.webp",
+    "image": "../../assets/images/do-dham-yatra.jpg",
     "bestSeason": ["May-June", "September-October"],
     "rating": 5.0,
     "reviewCount": 128,
@@ -18,101 +19,107 @@
       "Experienced guides",
       "All meals included"
     ],
-    "description": "Embark on a divine journey to two of the holiest shrines in the Himalayas - Kedarnath and Badrinath. This spiritual yatra offers a perfect blend of devotion and comfort, with expert guidance and modern amenities.",
-    "detailedDescription": "The Do Dham Yatra is a sacred pilgrimage to Kedarnath (abode of Lord Shiva) and Badrinath (abode of Lord Vishnu). Our meticulously planned package ensures a seamless spiritual experience with comfortable stays, hygienic meals, and expert guidance. Includes VIP darshan, cultural insights, and medical support.",
+    "description": "The Do-Dhaam Yatra is a sacred spiritual journey covering two of the most revered pilgrimage sites in India — Kedarnath and Badrinath. This yatra is ideal for devotees seeking divine blessings while enjoying a well-organized and comfortable travel experience. Surrounded by the majestic Himalayas and peaceful natural beauty, this journey offers a perfect blend of spirituality, devotion, and scenic exploration. Our Do-Dhaam Yatra package is carefully designed to ensure a smooth and hassle-free pilgrimage, with comfortable transportation, quality accommodation, and expert assistance throughout the journey. Whether you are traveling with family or as a solo devotee, this package allows you to focus on your spiritual connection while we take care of all travel arrangements.",
+    "detailedDescription": "The Do-Dhaam Yatra takes you on a divine expedition to Kedarnath Dham, dedicated to Lord Shiva, and Badrinath Dham, devoted to Lord Vishnu. This sacred journey begins from Haridwar / Rishikesh / Dehradun (as per itinerary) and proceeds through picturesque mountain routes, serene river valleys, and spiritually significant towns of Uttarakhand. At Kedarnath, pilgrims undertake a scenic trek surrounded by snow-clad peaks and the holy Mandakini River, experiencing deep spiritual energy at one of the twelve Jyotirlingas of Lord Shiva. The journey then continues to Badrinath, located on the banks of the Alaknanda River, where devotees visit the ancient Badrinath Temple and nearby holy sites like Tapt Kund and Mana Village. This package includes comfortable hotel stays, reliable transportation, guided assistance, and planned sightseeing to ensure a safe and enriching pilgrimage. Special care is taken to maintain a balanced schedule, allowing ample time for darshan, prayers, and rest. The Do-Dhaam Yatra Package is perfect for those who wish to complete two major dhams in a limited timeframe without compromising on comfort, safety, or spiritual fulfillment.",
     "itinerary": [
       {
         "day": "Day 1",
-        "title": "Arrival in Haridwar",
-        "description": "Arrive at Haridwar Railway Station/Airport. Transfer to hotel. Evening Ganga Aarti at Har Ki Pauri. Overnight stay in Haridwar.",
-        "accommodation": "3-star hotel in Haridwar",
-        "meals": "Dinner"
+        "title": "Delhi – Haridwar – Rishikesh",
+        "description": "Begin your sacred Do Dham Yatra from Delhi with a comfortable drive to Haridwar and Rishikesh. Witness the mesmerizing Ganga Aarti, explore spiritual landmarks, and relax amidst the serene riverbanks.",
+        "accommodation": "Premium riverside hotels",
+        "meals": "All meals"
       },
       {
         "day": "Day 2",
-        "title": "Haridwar to Guptkashi",
-        "description": "Morning drive to Guptkashi (approx. 8-9 hours). Enroute visit Devprayag (confluence of Alaknanda and Bhagirathi rivers). Check into hotel. Overnight stay.",
-        "accommodation": "Premium hotel in Guptkashi",
-        "meals": "Breakfast, Lunch, Dinner"
+        "title": "Rishikesh – Guptkashi",
+        "description": "Travel through picturesque Himalayan landscapes along the Mandakini River. Enjoy panoramic mountain views, charming hill towns, and a peaceful evening in Guptkashi preparing for Kedarnath Darshan.",
+        "accommodation": "Premium hotels",
+        "meals": "All meals"
       },
       {
         "day": "Day 3",
-        "title": "Guptkashi to Kedarnath",
-        "description": "Morning drive to Sonprayag. From here, take shared jeep to Gaurikund. Trek or helicopter to Kedarnath Temple. Evening darshan and aarti. Overnight stay.",
-        "accommodation": "Tented accommodation/Guest house",
-        "meals": "Breakfast, Lunch, Dinner"
+        "title": "Guptkashi – Kedarnath",
+        "description": "Proceed to Kedarnath via trek or optional helicopter service. Visit the sacred Kedarnath Temple, one of the twelve Jyotirlingas of Lord Shiva, and experience divine tranquility in the majestic Himalayan surroundings.",
+        "accommodation": "Luxury tents & premium lodges",
+        "meals": "All meals"
       },
       {
         "day": "Day 4",
-        "title": "Kedarnath to Badrinath",
-        "description": "Morning darshan and puja. Return to Guptkashi. Drive to Badrinath via Joshimath. Evening arrival and check-in.",
-        "accommodation": "Premium hotel in Badrinath",
-        "meals": "Breakfast, Lunch, Dinner"
+        "title": "Kedarnath – Guptkashi – Joshimath",
+        "description": "Descend from Kedarnath and continue your journey towards Joshimath. Enjoy breathtaking views of valleys, rivers, and snow-capped peaks along the route.",
+        "accommodation": "Premium hotels",
+        "meals": "All meals"
       },
       {
         "day": "Day 5",
-        "title": "Badrinath Darshan",
-        "description": "Morning darshan at Badrinath Temple. Visit Mana Village (last Indian village), Vyas Gufa, and Ganesh Gufa. Evening attend aarti. Overnight stay.",
-        "accommodation": "Premium hotel in Badrinath",
-        "meals": "Breakfast, Lunch, Dinner"
+        "title": "Joshimath – Badrinath",
+        "description": "Drive to Badrinath and attend the divine darshan at Badrinath Temple. Take a holy dip in Tapt Kund and experience the spiritual aura of one of the most revered Vishnu temples.",
+        "accommodation": "Premium hotels near temple",
+        "meals": "All meals"
       },
       {
         "day": "Day 6",
-        "title": "Badrinath to Haridwar & Departure",
-        "description": "Morning visit to Tapt Kund. Drive back to Haridwar. Drop at Haridwar Railway Station/Airport for onward journey.",
-        "accommodation": "None",
-        "meals": "Breakfast"
+        "title": "Badrinath – Rishikesh – Delhi",
+        "description": "Conclude your Do Dham Yatra with a scenic drive back via Rishikesh. Relive spiritual moments and return to Delhi with lifelong memories and divine blessings.",
+        "accommodation": "Premium hotels",
+        "meals": "All meals"
       }
     ],
     "inclusions": [
-      "Accommodation in 3-star and premium hotels",
-      "All meals (vegetarian) as per itinerary",
-      "AC transport throughout the journey",
-      "Helicopter service for Kedarnath (optional)",
-      "Experienced tour guide",
-      "Medical kit and oxygen support",
-      "All toll taxes, parking, and driver allowances",
-      "VIP darshan passes where available"
+      "Assistance throughout the journey",
+      "Comfortable accommodation arrangements",
+      "Transportation for sightseeing and transfers",
+      "Support during darshan at Kedarnath & Badrinath",
+      "Basic travel coordination and on-ground help",
+      "Flexible planning based on pilgrim needs",
+      "Inclusions can be modified, upgraded, or expanded as per customer preferences."
     ],
     "exclusions": [
-      "Travel insurance",
-      "Personal expenses",
-      "Pony/Palki/Porter charges",
-      "Any additional accommodation/tours",
-      "GST @ 5%",
-      "Anything not mentioned in inclusions"
+      "Personal expenses (shopping, tips, laundry, etc.)",
+      "Pony, palki, or helicopter services (if not opted)",
+      "Special puja, rituals, or offerings at temples",
+      "Medical or emergency expenses",
+      "Any service not specifically discussed at the time of booking",
+      "Exclusions depend entirely on the finalized travel plan."
     ],
     "importantNotes": [
       "Minimum age: 12 years",
-      "Medical certificate required",
-      "Warm clothing recommended",
       "Carry valid ID proof",
+      "Services, route, duration, and facilities can be customized without limitations",
+      "Weather and road conditions in the Himalayas may affect travel schedules",
+      "Final services will be clearly communicated before confirmation",
       "Flexible itinerary based on weather conditions"
     ],
-    
+
     "amenities": [
       "Medical Support Team",
       "Oxygen Cylinders",
       "WiFi at Hotels",
       "Hot Water",
       "Luggage Assistance",
-      "24/7 Support"
+      "24/7 Support",
+      "Clean and comfortable stay options",
+      "Power backup (where available)",
+      "Hot water facilities",
+      "Assistance desk / on-call support",
+      "Luggage handling support",
+      "Add-on luxury amenities on request"
     ],
     "transportation": "AC Tempo Traveller/Innova",
-    "meals": "Vegetarian meals (Breakfast, Lunch, Dinner)",
-    "accommodation": "3-star & Premium Hotels",
+    "meals": "Breakfast, Lunch, Dinner",
+    "accommodation": "Premium Hotels",
     "spiritualGuide": "Yes (Experienced Pandit)"
   },
   {
     "id": 2,
     "slug": "char-dham-yatra",
     "title": "Char Dham Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Complete Uttarakhand Circuit",
     "region": "Garhwal Himalayas",
     "duration": "12 Days / 11 Nights",
-    "image": "https://images.unsplash.com/photo-1706790574525-d218c4c52b5c?q=80&w=1170&auto=format&fit=crop&w=1200&60",
+    "image": "../../assets/images/char-dham-yatra.jpg",
     "difficulty": "Challenging",
     "bestSeason": ["May-June", "September-October"],
     "rating": 5.0,
@@ -123,30 +130,76 @@
       "Medical support",
       "Cultural programs"
     ],
-    "description": "Complete spiritual journey covering Yamunotri, Gangotri, Kedarnath, and Badrinath. Experience the ultimate Hindu pilgrimage with luxury comforts and expert guidance.",
-    "detailedDescription": "The Char Dham Yatra is the most sacred Hindu pilgrimage covering four divine abodes in the Himalayas. This comprehensive package offers spiritual enlightenment with modern amenities, ensuring a comfortable and meaningful journey.",
+    "description": "The Char Dham Yatra is one of the most sacred pilgrimage journeys in India, covering the four holy shrines of Uttarakhand — Yamunotri, Gangotri, Kedarnath, and Badrinath. Nestled in the majestic Himalayas, this divine journey offers devotees an opportunity to seek blessings while experiencing breathtaking landscapes, spiritual calm, and ancient temple traditions. Designed for pilgrims who wish to complete all four dhams in a well-organized and comfortable manner, our Char Dham Yatra showcase reflects a balanced blend of devotion, travel convenience, and personalized planning. Every journey is thoughtfully curated to ensure peace of mind, spiritual fulfillment, and a memorable Himalayan experience.",
+    "detailedDescription": "The Char Dham Yatra takes pilgrims on a spiritually enriching route through the Garhwal region of Uttarakhand, visiting the origin points of sacred rivers and some of the most revered temples in Hindu tradition. The journey traditionally begins from Haridwar / Rishikesh / Dehradun and progresses through scenic valleys, riverbanks, and high-altitude towns. The yatra starts with Yamunotri, the source of the Yamuna River, followed by Gangotri, the origin of the holy Ganga. Pilgrims then proceed to Kedarnath, one of the twelve Jyotirlingas of Lord Shiva, surrounded by snow-covered peaks. The journey concludes at Badrinath, dedicated to Lord Vishnu, located along the banks of the Alaknanda River. This yatra is not just a religious journey but also a deeply personal spiritual experience. The itinerary, services, and pace are designed to accommodate different age groups, travel preferences, and comfort levels. From basic pilgrim arrangements to premium and helicopter-assisted journeys, everything can be tailored to individual needs. The Char Dham Yatra Package is ideal for devotees seeking a complete pilgrimage experience with reliable planning, flexibility, and dedicated support throughout the journey.",
     "itinerary": [
       {
         "day": "Day 1-2",
-        "title": "Delhi to Yamunotri",
-        "description": "Travel to Yamunotri via Haridwar and Barkot. Visit Yamunotri Temple and Surya Kund.",
+        "title": "Delhi – Haridwar – Barkot – Yamunotri",
+        "description": "Begin your sacred journey from Delhi to the foothills of the Himalayas via Haridwar. Enjoy Ganga Aarti and scenic mountain drives to Barkot. Trek or ride to Yamunotri Temple, take a holy dip at Surya Kund, and seek blessings at the origin of River Yamuna.",
+        "accommodation": "Premium hotels & luxury mountain stays",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3-4",
+        "title": "Barkot – Uttarkashi – Gangotri",
+        "description": "Travel through breathtaking Himalayan valleys to Uttarkashi. Visit Gangotri Temple, the divine source of River Ganga, and experience serene moments amidst snow-clad peaks, pine forests, and sacred ghats.",
+        "accommodation": "Premium hotels with scenic views",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5-6",
+        "title": "Uttarkashi – Guptkashi – Kedarnath",
+        "description": "Drive to Guptkashi and proceed to Kedarnath via trek or optional helicopter service. Visit the revered Kedarnath Temple, one of the 12 Jyotirlingas of Lord Shiva, and soak in the powerful spiritual energy of the Himalayas.",
+        "accommodation": "Luxury tents & premium hotels",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 7-8",
+        "title": "Kedarnath – Guptkashi – Badrinath",
+        "description": "Descend from Kedarnath and continue toward Badrinath through dramatic mountain landscapes. En route, enjoy picturesque river confluences and charming Himalayan villages.",
+        "accommodation": "Premium hotels",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 9-10",
+        "title": "Badrinath Darshan & Mana Village",
+        "description": "Attend Badrinath Temple rituals, take a holy dip in Tapt Kund, and explore Mana Village — India’s last village. Visit Vyas Gufa, Bhim Pul, and experience spiritual calm surrounded by majestic peaks.",
+        "accommodation": "Premium hotels with temple proximity",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 11-12",
+        "title": "Badrinath – Rishikesh – Delhi",
+        "description": "Travel back via Rishikesh, the Yoga Capital of the World. Enjoy river views, local sightseeing, and peaceful moments before returning to Delhi with unforgettable spiritual memories.",
         "accommodation": "Premium hotels",
         "meals": "All meals"
       }
     ],
     "inclusions": [
-      "Luxury accommodation",
-      "All vegetarian meals",
-      "AC transport throughout",
-      "Medical team with oxygen",
-      "Cultural programs",
-      "VIP darshan arrangements"
+      "End-to-end travel coordination and assistance",
+      "Accommodation arrangements at all dham locations",
+      "Transportation for intercity transfers and sightseeing",
+      "Assistance during darshan and temple visits",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
     ],
     "exclusions": [
-      "Personal expenses",
-      "Travel insurance",
-      "Pony/Palki charges",
-      "GST @ 5%"
+      "Personal expenses and optional activities",
+      "Pony, palki, or helicopter services unless opted",
+      "Special puja, rituals, or offerings",
+      "Medical, insurance, or emergency costs",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Weather, road conditions, and temple regulations may affect schedules",
+      "Early booking is advised during peak yatra season",
+      "Final service details are shared before confirmation"
     ],
     "amenities": [
       "Luxury Transport",
@@ -164,12 +217,12 @@
     "id": 3,
     "slug": "hajj-package",
     "title": "Hajj Package",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Islamic Pilgrimage",
     "location": "Mecca & Medina",
     "region": "Saudi Arabia",
     "duration": "15 Days / 14 Nights",
-    "image": "https://images.unsplash.com/photo-1605553378313-22d0dc541393?q=80&w=1974&auto=format&fit=crop&w=1200&60",
+    "image": "../../assets/images/hajj-package.jpg",
     "difficulty": "Moderate",
     "bestSeason": ["Islamic month of Dhu al-Hijjah"],
     "rating": 5.0,
@@ -180,14 +233,114 @@
       "Experienced mutawwif",
       "Group coordination"
     ],
-    "description": "Government-approved Hajj package with 5-star accommodations near Haram, experienced Mutawwif, and complete logistical support for a blessed pilgrimage.",
-    "detailedDescription": "Our Hajj package is approved by the Saudi Ministry of Hajj and Umrah. We provide premium accommodation within walking distance of Haram, experienced Mutawwif for guidance, medical support, and complete assistance throughout your spiritual journey.",
+    "description": "The Hajj pilgrimage is one of the most sacred and life-changing journeys in Islam, performed in the holy cities of Makkah and Madinah. This spiritual obligation brings together millions of pilgrims from around the world, united in faith, humility, and devotion. Our Hajj Package showcase reflects a carefully planned journey focused on comfort, guidance, and spiritual peace, allowing pilgrims to fully dedicate themselves to worship. This package is thoughtfully designed to support pilgrims throughout every stage of Hajj, offering organized travel arrangements, comfortable stay options, and reliable assistance. Whether you are performing Hajj for the first time or returning for renewed spiritual purpose, our approach ensures a smooth, dignified, and meaningful pilgrimage experience.",
+    "detailedDescription": "The Hajj Package is designed to provide pilgrims with a structured yet flexible journey through the sacred rituals of Hajj, covering Makkah, Mina, Arafat, Muzdalifah, and Madinah (as applicable). The journey includes key rituals such as Tawaf, Sa’i, Wuquf at Arafat, and other essential acts of worship, conducted according to Islamic guidelines. Our showcase package focuses on providing logistical ease so pilgrims can concentrate on their spiritual responsibilities. From visa assistance and international travel coordination to accommodation near holy sites, every element is arranged with care and sensitivity. Special attention is given to crowd management, health considerations, and ritual guidance to ensure pilgrims feel supported throughout the journey. This package is suitable for individuals, families, elderly pilgrims, and group travelers, with options ranging from standard to premium services. The final itinerary, services, and facilities are fully customizable based on individual requirements, preferences, and official Hajj regulations for the season.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Departure – Arrival in Jeddah – Makkah",
+        "description": "Arrive at Jeddah International Airport, complete immigration and proceed to Makkah. Perform Umrah with guided assistance including Tawaf and Sa’i. Settle into hotel and rest.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2-4",
+        "title": "Makkah – Umrah & Ziyarat",
+        "description": "Perform additional Umrah (optional). Guided Ziyarat of holy sites including Mina, Arafat, Muzdalifah, Jabal-e-Noor, Jabal-e-Rehmat, and Masjid Aisha. Plenty of time for individual prayers at Masjid al-Haram.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5",
+        "title": "Makkah – Preparation for Hajj",
+        "description": "Hajj orientation session with scholars and group leaders. Guidance on rituals, Ihram, and spiritual preparation for the days of Hajj.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 6",
+        "title": "Makkah – Mina",
+        "description": "Enter state of Ihram and proceed to Mina. Perform prayers and spend the day in devotion and remembrance of Allah.",
+        "accommodation": "Air-conditioned luxury tents in Mina",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 7",
+        "title": "Mina – Arafat – Muzdalifah",
+        "description": "Proceed to Arafat for Wuquf-e-Arafat, the most important day of Hajj. After sunset, travel to Muzdalifah for prayers and collection of pebbles.",
+        "accommodation": "Muzdalifah (under the open sky)",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 8-9",
+        "title": "Muzdalifah – Mina – Rami & Qurbani",
+        "description": "Return to Mina for Rami (stoning of Jamaraat), perform Qurbani, shave/cut hair, and partially exit Ihram. Continue remaining Hajj rituals with guidance.",
+        "accommodation": "Air-conditioned luxury tents in Mina",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 10",
+        "title": "Mina – Tawaf-e-Ziyarah – Makkah",
+        "description": "Travel to Masjid al-Haram to perform Tawaf-e-Ziyarah and Sa’i. Return to Mina afterward.",
+        "accommodation": "Air-conditioned luxury tents / Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 11-12",
+        "title": "Mina – Completion of Hajj",
+        "description": "Complete remaining Rami rituals over the next two days. Return to Makkah after completion of Hajj.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 13",
+        "title": "Makkah – Farewell Tawaf",
+        "description": "Perform Tawaf-e-Wida (Farewell Tawaf). Spend final moments in prayer at Masjid al-Haram.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 14",
+        "title": "Makkah – Jeddah – Departure",
+        "description": "Transfer to Jeddah Airport for return flight with hearts full of faith, peace, and unforgettable spiritual memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Hajj visa processing and documentation",
+      "International round-trip airfare",
+      "Airport transfers in Saudi Arabia",
+      "Accommodation in 5-star hotels near Haram",
+      "All meals (Halal buffet)",
+      "AC transportation for all transfers and sightseeing",
+      "Experienced Mutawwif (Hajj guide) throughout the journey",
+      "Group coordination and assistance during rituals",
+      "Medical support and emergency services",
+      "Comprehensive Hajj orientation and guidance sessions",
+      "Inclusions can be customized based on individual needs."
+    ],
+    "exclusions": [
+      "Personal expenses (shopping, tips, laundry, etc.)",
+      "Optional activities or upgrades",
+      "Vaccinations or medical tests required for Hajj",
+      "Travel insurance",
+      "Any services not specifically mentioned in inclusions",
+      "Exclusions may vary based on chosen services."
+    ],
     "amenities": [
       "5-star Hotel near Haram",
       "Medical Clinic",
       "Zamzam Water",
       "Quran & Prayer Mats",
       "Translation Services"
+    ],
+    "importantNotes": [
+      "Package details are presented for showcase purposes only",
+      "Services are subject to Saudi Hajj authority regulations",
+      "Travel plans may change due to official guidelines or crowd control",
+      "Early booking is strongly recommended",
+      "Final services are confirmed prior to departure"
     ],
     "transportation": "AC Buses",
     "meals": "Halal Buffet Meals",
@@ -198,12 +351,12 @@
     "id": 4,
     "slug": "umrah-package",
     "title": "Umrah Package",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Islamic Pilgrimage",
     "location": "Mecca & Medina",
     "region": "Saudi Arabia",
     "duration": "10 Days / 9 Nights",
-    "image": "https://images.unsplash.com/photo-1580418827493-f2b22c0a76cb?auto=format&fit=crop&w=1200&q=60",
+    "image": "../../assets/images/umrah-package.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round except Hajj season"],
     "rating": 5.0,
@@ -214,12 +367,84 @@
       "Comfortable transport",
       "Spiritual guidance"
     ],
-    "description": "Comfortable Umrah package with Ziyarat tours, spiritual guidance, and premium accommodation for a blessed pilgrimage experience.",
+    "description": "The Umrah pilgrimage is a deeply spiritual journey to the holy cities of Makkah and Madinah, offering Muslims an opportunity to seek closeness to Allah, peace of heart, and spiritual renewal. Unlike Hajj, Umrah can be performed at any time of the year, making it an accessible and meaningful journey for individuals, families, and groups. Our Umrah Packages are thoughtfully designed to provide a smooth and comfortable pilgrimage experience, focusing on spiritual ease, reliable arrangements, and respectful service. Whether you are performing Umrah for the first time or returning for renewed faith, this journey is planned to allow you to focus on worship while we manage the travel essentials.",
+    "detailedDescription": "The Umrah Package covers all essential aspects of the pilgrimage, including travel to Makkah and Madinah, accommodation near the holy mosques, and assistance with Umrah rituals. The journey typically includes Ihram preparation, Tawaf around the Holy Kaaba, Sa’i between Safa and Marwah, and Halq or Qasr, along with time for prayers and reflection. Our showcase package emphasizes comfort, clarity, and flexibility. From visa assistance and flight coordination to hotel selection and local transportation, every element is arranged with attention to pilgrim needs. Optional visits to important Islamic sites in Makkah and Madinah can also be included based on preference. These packages are suitable for all age groups, including elderly pilgrims, with service options ranging from economy to premium. The itinerary, inclusions, and services are fully customizable according to travel dates, duration, comfort level, and individual requirements.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Departure – Arrival in Jeddah – Makkah",
+        "description": "Arrive at Jeddah International Airport and transfer to Makkah. Perform Umrah with guided assistance including Tawaf and Sa’i. Settle into hotel and rest.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2-4",
+        "title": "Makkah – Umrah & Ziyarat",
+        "description": "Perform additional Umrah (optional). Guided Ziyarat of holy sites including Mina, Arafat, Muzdalifah, Jabal-e-Noor, Jabal-e-Rehmat, and Masjid Aisha. Ample time for prayers at Masjid al-Haram.",
+        "accommodation": "Premium hotel near Haram",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5",
+        "title": "Makkah – Travel to Madinah",
+        "description": "Travel to Madinah by luxury coach or high-speed train. Check in to hotel and prepare for spiritual days in the Prophet’s city.",
+        "accommodation": "Premium hotel near Masjid an-Nabawi",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 6-8",
+        "title": "Madinah – Ziyarat & Worship",
+        "description": "Visit Masjid an-Nabawi, offer prayers at Riyaz-ul-Jannah (subject to permit), and attend guided Ziyarat including Masjid Quba, Uhud, Masjid Qiblatain, and other historic sites.",
+        "accommodation": "Premium hotel near Masjid an-Nabawi",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 9",
+        "title": "Madinah – Return to Makkah / Leisure Day",
+        "description": "Optional return to Makkah for additional Umrah or spend the day in Madinah for worship, reflection, and shopping.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 10",
+        "title": "Makkah / Madinah – Departure via Jeddah",
+        "description": "Transfer to Jeddah Airport for return journey with hearts filled with peace, faith, and lifelong spiritual memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Umrah visa processing and documentation",
+      "International round-trip airfare",
+      "Airport transfers in Saudi Arabia",
+      "Accommodation in 4-star hotels near Haram and Masjid an-Nabawi",
+      "All meals (Halal buffet)",
+      "AC transportation for all transfers and sightseeing",
+      "Experienced guide for Umrah rituals and Ziyarat tours",
+      "Group coordination and assistance during rituals",
+      "Medical support and emergency services",
+      "Inclusions can be customized based on individual needs."
+    ],
+    "exclusions": [
+      "Personal expenses (shopping, tips, laundry, etc.)",
+      "Optional activities or upgrades",
+      "Vaccinations or medical tests required for travel",
+      "Travel insurance",
+      "Any services not specifically mentioned in inclusions",
+      "Exclusions may vary based on chosen services."
+    ],
     "amenities": [
       "4-star Hotels",
       "Ziyarat Tours",
       "Medical Assistance",
       "Spiritual Lectures"
+    ],
+    "importantNotes": [
+      "Package details are presented for showcase purposes only",
+      "Services are subject to Saudi regulations",
+      "Travel plans may change due to official guidelines",
+      "Early booking is recommended",
+      "Final services are confirmed prior to departure"
     ],
     "transportation": "AC Transport",
     "meals": "Halal Meals",
@@ -230,12 +455,12 @@
     "id": 5,
     "slug": "kailash-mansarovar",
     "title": "Kailash Mansarovar",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Multi-faith Pilgrimage",
     "location": "Tibet, China",
     "region": "Trans-Himalayas",
     "duration": "14 Days / 13 Nights",
-    "image": "https://images.unsplash.com/photo-1606163338600-0e212c836bb3?q=80&w=1170&auto=format&fit=crop&w=1200&q=60",
+    "image": "../../assets/images/kailash-mansarovar.jpg",
     "difficulty": "Challenging",
     "bestSeason": ["May-September"],
     "rating": 5.0,
@@ -246,7 +471,134 @@
       "Oxygen support",
       "Permits included"
     ],
-    "description": "Sacred journey to Mount Kailash and Lake Mansarovar, revered by Hindus, Buddhists, Jains, and Bonpos. Complete permit assistance and medical support.",
+    "description": "The Kailash Mansarovar Yatra is one of the most sacred and spiritually profound journeys in the world, revered by Hindus, Buddhists, Jains, and followers of Bon. Mount Kailash is believed to be the divine abode of Lord Shiva, while Mansarovar Lake symbolizes purity, peace, and spiritual awakening. This extraordinary pilgrimage is not just a journey across breathtaking landscapes but a deeply transformative spiritual experience. Our Kailash Mansarovar Yatra showcase reflects a carefully planned expedition focused on safety, spiritual fulfillment, and respectful coordination through one of the most remote and powerful regions on Earth.",
+    "detailedDescription": "The Kailash Mansarovar Yatra takes pilgrims through high-altitude terrain, sacred valleys, and spiritually significant locations leading to Mount Kailash and the holy Mansarovar Lake. The journey typically involves international travel, border crossings, acclimatization days, and guided movement through remote Himalayan routes. A key highlight of this yatra is the Kailash Parikrama (Kora)—a sacred circumambulation around Mount Kailash that holds immense religious significance. Pilgrims also experience holy rituals and meditation near Mansarovar Lake, believed to cleanse the soul and bring spiritual liberation. Our showcase package emphasizes careful planning, gradual acclimatization, and continuous assistance, ensuring pilgrims feel supported throughout the journey. The itinerary, services, and comfort levels are fully customizable based on health conditions, travel preferences, and regulatory permissions from relevant authorities. This journey is best suited for spiritually inclined travelers seeking a once-in-a-lifetime pilgrimage that combines devotion, endurance, and inner transformation.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Kathmandu",
+        "description": "Arrive in Kathmandu and receive a warm welcome. Transfer to hotel and attend a detailed yatra briefing covering health, safety, and spiritual preparation.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Kathmandu – Pashupatinath & Sightseeing",
+        "description": "Visit the sacred Pashupatinath Temple and other important spiritual sites in Kathmandu. Complete documentation and permit formalities.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Kathmandu – Dhunche / Syabrubesi",
+        "description": "Drive through scenic Himalayan landscapes to the Nepal–Tibet border region. Enjoy breathtaking mountain views and peaceful surroundings.",
+        "accommodation": "Comfortable guesthouse / hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Syabrubesi – Kerung (Tibet)",
+        "description": "Cross the Nepal–China border and enter Tibet. Complete immigration formalities and proceed to Kerung for acclimatization.",
+        "accommodation": "Comfortable hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5",
+        "title": "Kerung – Acclimatization Day",
+        "description": "Rest and acclimatize to high altitude. Short walks and breathing exercises to prepare the body for the journey ahead.",
+        "accommodation": "Comfortable hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 6",
+        "title": "Kerung – Saga",
+        "description": "Drive through vast Tibetan plateaus, snow-capped peaks, and pristine rivers to reach Saga, a major settlement in western Tibet.",
+        "accommodation": "Best available hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 7",
+        "title": "Saga – Mansarovar Lake",
+        "description": "Proceed to the sacred Mansarovar Lake. Witness the first divine glimpse of Mount Kailash. Perform spiritual rituals and meditation by the holy lake.",
+        "accommodation": "Guesthouse near Mansarovar",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 8",
+        "title": "Mansarovar – Darchen",
+        "description": "Holy bath at Mansarovar Lake followed by parikrama (circumambulation). Drive to Darchen, the base camp for Mount Kailash Parikrama.",
+        "accommodation": "Guesthouse / hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 9",
+        "title": "Darchen – Yam Dwar – Dirapuk",
+        "description": "Begin the sacred Mount Kailash Parikrama. Trek from Yam Dwar to Dirapuk Monastery, offering spectacular north-face views of Mount Kailash.",
+        "accommodation": "Basic guesthouse",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 10",
+        "title": "Dirapuk – Dolma La Pass – Zuthulpuk",
+        "description": "The most challenging and spiritually rewarding day. Cross Dolma La Pass (18,600 ft), visit Gauri Kund, and descend to Zuthulpuk.",
+        "accommodation": "Basic guesthouse",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 11",
+        "title": "Zuthulpuk – Darchen – Saga",
+        "description": "Complete the Kailash Parikrama and drive back to Saga, carrying divine blessings and spiritual fulfillment.",
+        "accommodation": "Best available hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 12",
+        "title": "Saga – Kerung",
+        "description": "Return journey through the stunning Tibetan landscape back to Kerung. Relax and reflect on the sacred experience.",
+        "accommodation": "Comfortable hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 13",
+        "title": "Kerung – Kathmandu",
+        "description": "Cross back into Nepal and drive to Kathmandu. Evening at leisure for shopping or rest.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 14",
+        "title": "Kathmandu – Departure",
+        "description": "Transfer to airport for onward journey with a heart full of peace, blessings, and a once-in-a-lifetime spiritual experience.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Comprehensive travel arrangements from Kathmandu to Kailash Mansarovar and back",
+      "Accommodation in comfortable hotels and guesthouses throughout the journey",
+      "All meals during the yatra",
+      "AC transportation for all road journeys",
+      "Experienced multi-faith spiritual guide throughout the yatra",
+      "Medical support team with oxygen cylinders",
+      "Necessary permits and documentation for Tibet entry",
+      "Guided Kailash Parikrama with support staff",
+      "Inclusions can be customized based on individual needs."
+    ],
+    "exclusions": [
+      "International airfare to/from Kathmandu",
+      "Personal expenses (shopping, tips, laundry, etc.)",
+      "Travel insurance",
+      "Optional activities or upgrades",
+      "Any services not specifically mentioned in inclusions",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes only",
+      "Travel is subject to government permissions and international regulations",
+      "High-altitude conditions require physical fitness and medical clearance",
+      "Weather and terrain may impact travel plans",
+      "Final details are shared before journey confirmation"
+    ],
     "amenities": [
       "Oxygen Support",
       "Medical Team",
@@ -262,12 +614,12 @@
     "id": 6,
     "slug": "vaishno-devi-yatra",
     "title": "Vaishno Devi Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Jammu & Kashmir",
     "region": "Trikuta Mountains",
     "duration": "4 Days / 3 Nights",
-    "image": "https://images.unsplash.com/photo-1719377678428-d9bcec6976f3?q=80&w=1931&auto=format&fit=crop&w=1200&q=60",
+    "image": "../../assets/images/vaishno-devi-yatra.jpg",
     "difficulty": "Easy to Moderate",
     "bestSeason": ["Year-round", "Best: March-October"],
     "rating": 5.0,
@@ -278,12 +630,39 @@
       "Comfortable hotels",
       "Local sightseeing"
     ],
-    "description": "Blessed journey to Mata Vaishno Devi shrine with helicopter options, VIP darshan, and comfortable accommodation for a divine experience.",
+    "description": "The Vaishno Devi Yatra is one of the most revered pilgrimage journeys in India, drawing millions of devotees each year to seek the blessings of Mata Vaishno Devi. Located in the Trikuta Mountains of Jammu, this sacred yatra is a perfect blend of faith, devotion, and scenic beauty. The journey offers pilgrims a deeply spiritual experience along with the peaceful charm of the surrounding hills. This yatra is suitable for devotees of all age groups and can be planned in a comfortable and well-organized manner. Our showcase reflects a smooth and spiritually fulfilling journey, allowing pilgrims to focus on devotion while enjoying a seamless travel experience.",
+
+    "detailedDescription": "The Vaishno Devi Yatra begins from the holy town of Katra, the base point for the pilgrimage, from where devotees undertake a spiritually uplifting trek to the sacred Vaishno Devi Bhawan. Surrounded by the serene landscapes of the Trikuta Hills, the journey offers moments of reflection, devotion, and inner peace. Pilgrims visit the holy cave shrine where Mata Vaishno Devi is worshipped in the form of three natural pindis, symbolizing Maha Kali, Maha Lakshmi, and Maha Saraswati. The yatra is considered a divine calling, and completing it is believed to bring spiritual fulfillment and blessings. This journey can be planned at a comfortable pace, with options that suit different travel preferences and physical abilities. From basic pilgrimage arrangements to more convenient and premium travel styles, the experience can be tailored to individual needs. The Vaishno Devi Yatra is not just a religious visit but a deeply meaningful spiritual journey that leaves devotees with lasting peace, faith, and devotion.",
     "amenities": [
       "Helicopter Booking",
       "VIP Darshan",
       "Pony/Palki Arrangement",
       "Medical Support"
+    ],
+    "inclusions": [
+      "Round-trip transportation from Jammu to Katra",
+      "Accommodation in comfortable hotels in Katra",
+      "Transportation to Vaishno Devi base camp",
+      "Assistance with darshan arrangements",
+      "Local sightseeing in Jammu",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Helicopter, pony, or palki services unless opted",
+      "Special puja, rituals, or offerings",
+      "Medical, insurance, or emergency costs",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Weather, road conditions, and temple regulations may affect schedules",
+      "Early booking is advised during peak yatra season",
+      "Final service details are shared before confirmation"
     ],
     "transportation": "AC Transport",
     "meals": "Vegetarian Meals",
@@ -294,12 +673,12 @@
     "id": 7,
     "slug": "amarnath-yatra",
     "title": "Amarnath Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Jammu & Kashmir",
     "region": "Himalayas",
     "duration": "7 Days / 6 Nights",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS0DgJujf_00a7Wz5zxwfxvmXnWfsKZNIN7UaRCE8fLd7UdnOwVUp3uV9TW-sirb-Bwt5eqYynnv46VeJ6KInxPyiqP6Pu4ik-Y2t7zrf977y0fqcOP65NwL3xSs6GlQxkA2Ptof056rQ/s1600/Lord_Amarnath.jpg",
+    "image": "../../assets/images/amarnath-yatra.jpg",
     "difficulty": "Challenging",
     "bestSeason": ["July-August"],
     "rating": 5.0,
@@ -310,7 +689,79 @@
       "Secure base camps",
       "Experienced yatra guides"
     ],
-    "description": "Sacred pilgrimage to the Amarnath Cave to witness the natural ice Shiva Lingam. Complete medical support and secure arrangements.",
+    "description": "The Amarnath Yatra is one of the most sacred pilgrimages in Hinduism, dedicated to Lord Shiva and renowned for the naturally formed Ice Lingam inside the holy Amarnath Cave. Nestled high in the Himalayas of Jammu and Kashmir, this spiritually powerful journey attracts devotees seeking divine blessings, inner peace, and a profound connection with faith. Set amidst breathtaking mountain landscapes, glaciers, and pristine valleys, the Amarnath Yatra is both a spiritual and awe-inspiring experience. It is a journey of devotion, endurance, and surrender, offering pilgrims a chance to witness one of the most extraordinary spiritual phenomena in the world.",
+    "detailedDescription": "The Amarnath Yatra takes pilgrims to the sacred Amarnath Cave, situated at a high altitude and accessible only during a limited period each year. The journey traditionally begins from designated base points and proceeds through scenic mountain routes, challenging terrains, and spiritually significant landmarks. At the heart of the pilgrimage lies the holy Ice Lingam, believed to symbolize Lord Shiva and formed naturally by the freezing of water droplets within the cave. Devotees gather here to offer prayers, seeking blessings, strength, and spiritual awakening. This yatra requires careful planning due to altitude, weather conditions, and physical demands. The journey can be undertaken at a pace suitable to individual comfort levels, with arrangements that support safety, rest, and spiritual focus. The Amarnath Yatra is more than a pilgrimage—it is a deeply transformative spiritual experience that leaves devotees with a sense of devotion, humility, and divine connection long after the journey is complete.",
+
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Jammu – Srinagar",
+        "description": "Arrive at Jammu and proceed to Srinagar. Check in to hotel or houseboat and enjoy a peaceful evening by Dal Lake.",
+        "accommodation": "Premium hotel / deluxe houseboat",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Srinagar – Sonmarg – Baltal",
+        "description": "Drive through scenic landscapes to Sonmarg and continue to Baltal Base Camp. Complete yatra registration and medical check-up.",
+        "accommodation": "Premium tents / best available camps",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Baltal – Amarnath Cave – Baltal",
+        "description": "Early morning trek or helicopter ride to the holy Amarnath Cave. Witness the divine Ice Lingam of Lord Shiva and return to Baltal after darshan.",
+        "accommodation": "Premium tents / best available camps",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Baltal – Sonmarg – Srinagar",
+        "description": "Return to Srinagar via Sonmarg. Relax and enjoy local sightseeing, gardens, and markets.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5",
+        "title": "Srinagar – Local Sightseeing",
+        "description": "Visit Mughal Gardens, Shankaracharya Temple, and enjoy a Shikara ride on Dal Lake. Evening at leisure.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 6",
+        "title": "Srinagar – Jammu – Departure",
+        "description": "Transfer to Jammu for onward journey with divine blessings and unforgettable memories of the sacred Amarnath Yatra.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+
+    "inclusions": [
+      "Round-trip transportation from Jammu to Srinagar and Baltal",
+      "Accommodation in premium hotels, deluxe houseboats, and tents",
+      "All meals during the yatra",
+      "Helicopter services for Amarnath Cave visit (if opted)",
+      "Experienced yatra guide throughout the journey",
+      "Medical assistance and emergency support",
+      "Yatra registration and permits",
+      "Inclusions can be customized based on individual needs."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Helicopter services unless opted",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not specifically mentioned in inclusions",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are subject to government regulations",
+      "Weather and terrain may impact travel plans",
+      "Physical fitness and medical clearance are advised",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Medical Camp",
       "Oxygen Support",
@@ -326,12 +777,12 @@
     "id": 8,
     "slug": "vrindavan-mathura-yatra",
     "title": "Vrindavan Mathura Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Uttar Pradesh",
     "region": "Braj Bhoomi",
     "duration": "3 Days / 2 Nights",
-    "image": "https://images.unsplash.com/photo-1662376107358-21296a9234f1?q=80&w=2126&auto=format&fit=crop&w=1200&q=60",
+    "image": "../../assets/images/vrindavan-mathura-yatra.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round", "Best: Jan-March, Sep-Dec"],
     "rating": 5.0,
@@ -342,7 +793,64 @@
       "Yamuna aarti",
       "Comfortable stay"
     ],
-    "description": "Divine journey to the land of Lord Krishna - Mathura and Vrindavan. Experience the spiritual bliss of Braj Bhoomi with comfortable stays.",
+    "description": "The Vrindavan Mathura Yatra is a spiritually enriching journey to the land of Lord Krishna, where devotion, culture, and divine love come together. Mathura, the birthplace of Lord Krishna, and Vrindavan, the land of his divine leelas, are among the most sacred destinations for devotees seeking peace, faith, and spiritual joy. This yatra offers a beautiful blend of temple दर्शन, devotional atmosphere, and cultural heritage. Surrounded by sacred ghats, ancient temples, and continuous chants of devotion, the journey creates an environment of deep spiritual connection and serenity.",
+    "detailedDescription": "The Vrindavan Mathura Yatra takes pilgrims through the most revered sites associated with the life and teachings of Lord Krishna. The journey begins in Mathura, where devotees visit the sacred Shri Krishna Janmabhoomi, believed to be the birthplace of Lord Krishna. The spiritual experience continues through ancient temples and holy ghats along the Yamuna River.In Vrindavan, pilgrims immerse themselves in divine devotion while visiting renowned temples such as Banke Bihari Temple, ISKCON Temple, and Prem Mandir. The atmosphere of Vrindavan is filled with bhajans, kirtans, and a sense of eternal devotion that touches the heart of every visitor.This yatra is suitable for all age groups and can be planned in a relaxed and comfortable manner. Whether undertaken for devotion, spiritual exploration, or cultural understanding, the journey offers moments of reflection, peace, and joy. The Vrindavan Mathura Yatra is not just a pilgrimage but a soulful experience that allows devotees to feel the presence of Lord Krishna’s divine love and blessings throughout the journey.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Mathura",
+        "description": "Arrive in Mathura, the birthplace of Lord Krishna. Visit Shri Krishna Janmabhoomi Temple and attend the evening aarti. Explore local markets and soak in the divine atmosphere.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Mathura – Vrindavan Sightseeing",
+        "description": "Proceed to Vrindavan and visit renowned temples including Banke Bihari Temple, ISKCON Temple, Radha Raman Temple, and Prem Mandir. Experience the soulful evening aarti at Yamuna Ghat.",
+        "accommodation": "Premium hotel in Vrindavan",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Vrindavan – Gokul – Govardhan",
+        "description": "Visit Gokul, Nandgaon, and Barsana (Radha Rani Temple). Perform Govardhan Parikrama and experience the leelas of Lord Krishna in these sacred towns.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Vrindavan – Mathura – Departure",
+        "description": "Attend morning aarti, enjoy leisure time for shopping or personal prayers, and depart with divine blessings and cherished memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+
+    "inclusions": [
+      "Round-trip transportation from Delhi to Mathura and Vrindavan",
+      "Accommodation in comfortable 3-star hotels",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to major temples and holy sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Temple Darshan",
       "Cultural Programs",
@@ -351,19 +859,18 @@
     ],
     "transportation": "AC Coach",
     "meals": "Vegetarian Meals",
-    "accommodation": "3-star Hotels",
-    "spiritualGuide": "Yes (Braj Guide)"
+    "accommodation": "3-star Hotels"
   },
   {
     "id": 9,
     "slug": "golden-temple-yatra",
     "title": "Golden Temple Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Sikh Pilgrimage",
     "location": "Amritsar, Punjab",
     "region": "Punjab Plains",
     "duration": "3 Days / 2 Nights",
-    "image": "https://images.unsplash.com/photo-1623059508779-2542c6e83753?q=80&w=627&auto=format&fit=crop&w=1200&q=60",
+    "image": "../../assets/images/golden-temple.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
     "rating": 5.0,
@@ -374,7 +881,64 @@
       "Wagah Border ceremony",
       "City sightseeing"
     ],
-    "description": "Spiritual journey to the holiest Sikh shrine - Golden Temple. Includes langar seva, Wagah Border ceremony, and city tour.",
+    "description": "The Golden Temple Yatra is a spiritually uplifting journey to Sri Harmandir Sahib, the holiest shrine of Sikhism, located in the heart of Amritsar, Punjab. Known for its divine serenity, selfless service, and universal message of equality, the Golden Temple welcomes people of all faiths with open arms.Surrounded by the sacred Amrit Sarovar, the temple’s peaceful atmosphere, soulful kirtans, and timeless spiritual energy create an experience of deep inner calm. This yatra is ideal for those seeking spiritual reflection, humility, and a connection to the core values of faith and humanity.",
+    "detailedDescription": "The Golden Temple Yatra takes devotees and travelers to Sri Harmandir Sahib, a symbol of devotion, unity, and selfless service. The journey offers an opportunity to experience the powerful spiritual presence of the temple, where the continuous recitation of Gurbani fills the air with peace and devotion. Pilgrims participate in prayers, take a holy parikrama around the Amrit Sarovar, and may also experience the world-renowned Langar, which reflects the Sikh principle of equality and service. The temple complex, with its golden sanctum and serene surroundings, provides a space for meditation, gratitude, and spiritual connection. The yatra can be planned at a relaxed pace, suitable for individuals, families, and elderly travelers. Beyond its religious significance, the journey also offers insight into Sikh culture, history, and values. The Golden Temple Yatra is more than a pilgrimage—it is a deeply meaningful spiritual experience that inspires peace, compassion, and unity, leaving visitors with a lasting sense of spiritual fulfillment.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Amritsar",
+        "description": "Arrive in Amritsar and transfer to hotel. Visit the Golden Temple (Sri Harmandir Sahib) for evening prayers and experience the serene Palki Sahib ceremony.",
+        "accommodation": "Premium hotel near Golden Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Golden Temple – Amritsar Sightseeing",
+        "description": "Early morning visit to the Golden Temple and participate in Guru Ka Langar. Visit Jallianwala Bagh, Durgiana Temple, and local markets.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Amritsar – Wagah Border – Cultural Evening",
+        "description": "Attend the patriotic Wagah Border ceremony. Enjoy traditional Punjabi culture, shopping, and local cuisine in the evening.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Amritsar – Departure",
+        "description": "Final visit to the Golden Temple for morning prayers. Transfer to airport or railway station with peaceful memories and divine blessings.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Amritsar",
+      "Accommodation in comfortable 3-star hotels near the Golden Temple",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to major temples and holy sites in Amritsar",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Langar Participation",
       "Wagah Border Visit",
@@ -390,12 +954,12 @@
     "id": 10,
     "slug": "ayodhya-ram-mandir-yatra",
     "title": "Ayodhya Ram Mandir Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Ayodhya, Uttar Pradesh",
     "region": "Awadh Region",
     "duration": "2 Days / 1 Night",
-    "image": "https://www.kailash-yatra.org/images/ayodhya-ram-mandir-banner.jpg",
+    "image": "../../assets/images/ayodhya-ram-mandir.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
     "rating": 5.0,
@@ -406,7 +970,62 @@
       "Local temple visits",
       "Comfortable stay"
     ],
-    "description": "Historic pilgrimage to the newly constructed Ram Mandir in Ayodhya. Experience the divine aura of Lord Rama's birthplace.",
+    "description": "The Ayodhya Ram Mandir Yatra is a sacred pilgrimage to the birthplace of Lord Shri Ram, symbolizing faith, devotion, and the timeless values of dharma. Located in the holy city of Ayodhya, this yatra holds immense spiritual significance for devotees who wish to seek blessings at the magnificent Shri Ram Janmabhoomi Mandir. Surrounded by ancient temples, sacred ghats, and a deeply devotional atmosphere, Ayodhya offers pilgrims a peaceful and spiritually uplifting experience. This yatra is ideal for devotees seeking a meaningful connection with Lord Ram and the rich spiritual heritage of India.",
+    "detailedDescription": "The Ayodhya Ram Mandir Yatra takes pilgrims to one of the most revered spiritual destinations in India. The journey centers around the Shri Ram Janmabhoomi Mandir, built at the sacred site believed to be the birthplace of Lord Shri Ram. Devotees visit the temple to offer prayers, participate in darshan, and experience the divine energy of this historic pilgrimage site. Beyond the Ram Mandir, the yatra allows pilgrims to explore Ayodhya’s spiritual landscape, including sacred ghats along the Sarayu River, ancient temples, and places associated with the Ramayana. The city resonates with devotion, bhajans, and a sense of spiritual calm that touches every visitor. This yatra can be planned in a comfortable and flexible manner, suitable for pilgrims of all age groups. Whether undertaken for devotion, cultural exploration, or spiritual reflection, the journey offers moments of peace, faith, and inspiration. The Ayodhya Ram Mandir Yatra is not just a pilgrimage but a profound spiritual experience that strengthens devotion, instills inner peace, and leaves pilgrims with a lasting sense of faith and fulfillment.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Ayodhya",
+        "description": "Arrive in Ayodhya, the sacred birthplace of Lord Shri Ram. Transfer to hotel and enjoy an evening visit to Ram Janmabhoomi Temple followed by serene Saryu Aarti.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Ayodhya – Ram Mandir Darshan & Sightseeing",
+        "description": "Early morning darshan at Shri Ram Janmabhoomi Mandir. Visit Hanuman Garhi, Kanak Bhawan, Dashrath Mahal, and other sacred temples associated with the Ramayana.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Ayodhya – Naimisharanya Excursion",
+        "description": "Optional excursion to Naimisharanya, one of the holiest spiritual centers of Hinduism. Visit Chakra Tirth and other revered sites before returning to Ayodhya.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Ayodhya – Departure",
+        "description": "Attend morning prayers, enjoy leisure time for spiritual reflection and shopping, and depart with divine blessings and cherished memories of Lord Shri Ram.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from Lucknow to Ayodhya",
+      "Accommodation in comfortable 3-star hotels",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Shri Ram Janmabhoomi Mandir and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "VIP Darshan",
       "Saryu Aarti",
@@ -422,12 +1041,12 @@
     "id": 11,
     "slug": "kashi-vishwanath-yatra",
     "title": "Kashi Vishwanath Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Varanasi, Uttar Pradesh",
     "region": "Ganges Plains",
-    "duration": "3 Days / 2 Nights",
-    "image": "https://kashiyatra.in/wp-content/uploads/2023/02/kashi-vishwanath-temple.webp",
+    "duration": "4 Days / 3 Nights",
+    "image": "../../assets/images/kashi-vishwanath-yatra.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round", "Best: Oct-March"],
     "rating": 5.0,
@@ -438,7 +1057,62 @@
       "Boat ride",
       "Spiritual walkthrough"
     ],
-    "description": "Divine journey to the eternal city of Varanasi and the sacred Kashi Vishwanath Temple. Experience Ganga aarti and spiritual enlightenment.",
+    "description": "The Kashi Vishwanath Yatra is a deeply sacred pilgrimage to one of the most revered Jyotirlingas of Lord Shiva, located in the ancient city of Kashi (Varanasi). Known as the spiritual capital of India, Kashi is believed to be the place where liberation (moksha) is attained, making this yatra profoundly significant for devotees seeking divine blessings and spiritual awakening. Set along the holy banks of the River Ganga, the yatra offers a powerful blend of devotion, ancient traditions, and spiritual energy. The atmosphere of Kashi—filled with temple bells, mantras, and sacred rituals—creates an experience that is both timeless and transformative.",
+    "detailedDescription": "The Kashi Vishwanath Yatra takes pilgrims to the revered Kashi Vishwanath Temple, dedicated to Lord Shiva in his form as the supreme ruler of the universe. As one of the twelve Jyotirlingas, the temple holds immense spiritual importance and is believed to grant liberation from the cycle of birth and death. Pilgrims visiting Kashi experience a sacred rhythm of life through morning prayers, temple darshan, and rituals performed along the ghats of the Ganga. The journey often includes moments of quiet reflection, participation in traditional aartis, and a deep connection to centuries-old spiritual practices. Kashi is not just a destination but a living spiritual experience, where devotion flows naturally through everyday life. The yatra can be undertaken at a comfortable pace, allowing pilgrims to absorb the city's divine energy and spiritual heritage. The Kashi Vishwanath Yatra is more than a pilgrimage—it is a soul-stirring journey that brings devotees closer to Lord Shiva while offering peace, clarity, and spiritual fulfillment that stays long after the visit.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Varanasi",
+        "description": "Arrive in Varanasi, the city of Lord Shiva. Transfer to hotel and enjoy an evening boat ride along the sacred Ganga Ghats, witnessing the mesmerizing Ganga Aarti.",
+        "accommodation": "Premium hotel near Ghats",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Kashi Vishwanath Darshan & Sightseeing",
+        "description": "Attend morning darshan at Kashi Vishwanath Temple. Explore other sacred sites including Sankat Mochan Hanuman Temple, Tulsi Manas Mandir, Durga Temple, and nearby ghats for spiritual rituals.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Sarnath Excursion",
+        "description": "Visit Sarnath, where Lord Buddha gave his first sermon. Explore the Dhamek Stupa, Chaukhandi Stupa, and Sarnath Museum. Return to Varanasi for evening Ganga Aarti.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Varanasi – Departure",
+        "description": "Attend early morning prayers at Kashi Vishwanath Temple or enjoy a peaceful sunrise boat ride on the Ganga. Transfer to airport or railway station for onward journey with divine blessings.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Varanasi",
+      "Accommodation in comfortable 3-star hotels near the Ghats",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Kashi Vishwanath Temple and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Ganga Aarti",
       "Boat Ride",
@@ -454,12 +1128,12 @@
     "id": 12,
     "slug": "tirupati-balaji-yatra",
     "title": "Tirupati Balaji Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Tirupati, Andhra Pradesh",
     "region": "Tirumala Hills",
-    "duration": "3 Days / 2 Nights",
-    "image": "https://balajitravelschennai.com/blog/wp-content/uploads/2025/04/Untold-Stories-and-Wonders-of-Tirupati-Balaji-Temple.jpg",
+    "duration": "4 Days / 3 Nights",
+    "image": "../../assets/images/tirupati-balaji-yatra.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
     "rating": 5.0,
@@ -470,7 +1144,63 @@
       "Local sightseeing",
       "Temple rituals assistance"
     ],
-    "description": "Blessed pilgrimage to Tirumala Venkateswara Temple with VIP darshan passes and complete ritual assistance for a divine experience.",
+    "description": "The Tirupati Balaji Yatra is one of the most revered and widely visited pilgrimages in India, dedicated to Lord Venkateswara (Balaji), an incarnation of Lord Vishnu. Located on the sacred Tirumala Hills in Andhra Pradesh, this yatra is known for its powerful spiritual significance and the unwavering faith of millions of devotees. Surrounded by lush green hills and a deeply devotional atmosphere, Tirupati offers pilgrims a profound experience of surrender, gratitude, and divine blessings. The yatra is ideal for devotees seeking fulfillment of wishes, spiritual peace, and a strong connection with Lord Balaji.",
+    "detailedDescription": "The Tirupati Balaji Yatra takes pilgrims to the world-famous Sri Venkateswara Temple at Tirumala, believed to be the abode of Lord Balaji during the Kali Yuga. Devotees undertake this sacred journey to seek blessings for prosperity, health, and spiritual well-being. Pilgrims participate in darshan, offer prayers, and engage in traditional rituals such as tonsure (mundan) and special sevas, reflecting devotion and surrender. The temple’s serene surroundings, continuous chants, and sacred traditions create an atmosphere of deep spiritual energy and reverence. The journey can be planned in a comfortable and organized manner, suitable for all age groups, including families and elderly devotees. With proper planning, pilgrims can experience the darshan smoothly while enjoying the peaceful beauty of the Tirumala Hills. The Tirupati Balaji Yatra is not just a temple visit but a deeply meaningful spiritual journey that strengthens faith, devotion, and inner peace, leaving devotees with lasting blessings and divine grace.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Tirupati",
+        "description": "Arrive at Tirupati by flight or train and transfer to hotel. Rest and prepare for the sacred darshan of Lord Venkateswara. Evening at leisure for local sightseeing or temple rituals.",
+        "accommodation": "Premium hotel near Tirupati Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Tirumala Darshan – Lord Venkateswara",
+        "description": "Early morning visit to Tirumala for darshan of Lord Venkateswara (Balaji). Participate in special rituals and prayers, and experience the divine atmosphere at the hill shrine.",
+        "accommodation": "Premium hotel near Tirupati Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Tirupati – Local Sightseeing",
+        "description": "Visit Sri Padmavathi Temple at Tiruchanur, Sri Govindaraja Swamy Temple, and other sacred temples in Tirupati. Explore local markets and enjoy cultural experiences.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Tirupati – Departure",
+        "description": "Attend morning prayers or a final darshan at Tirumala. Transfer to airport or railway station for onward journey with blessings and cherished spiritual memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Tirupati",
+      "Accommodation in comfortable 3-star hotels near Tirupati Temple",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Sri Venkateswara Temple and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "VIP Darshan",
       "Seva Tickets",
@@ -486,12 +1216,12 @@
     "id": 13,
     "slug": "shirdi-sai-baba-yatra",
     "title": "Shirdi Sai Baba Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Multi-faith Pilgrimage",
     "location": "Shirdi, Maharashtra",
     "region": "Western Maharashtra",
     "duration": "3 Days / 2 Nights",
-    "image": "https://content.jdmagicbox.com/v2/comp/mumbai/z2/022pxx22.xx22.221117045316.t5z2/catalogue/shirdi-shri-sai-baba-temple-mumbai-temples-D4VGxNgL2D.jpg?w=1920&q=75",
+    "image": "../../assets/images/shirdi-sai-baba-yatra.webp",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
     "rating": 5.0,
@@ -502,7 +1232,56 @@
       "Temple rituals",
       "Comfort stay"
     ],
-    "description": "Spiritual journey to Shirdi Sai Baba Temple. Experience the divine blessings of Sai Baba with comfortable accommodation and guided rituals.",
+    "description": "The Shirdi Sai Baba Yatra is a spiritually uplifting pilgrimage to Shirdi, the sacred abode of Sai Baba, a saint revered for his teachings of faith, patience, compassion, and universal love. Located in Maharashtra, Shirdi attracts millions of devotees from all walks of life who seek peace, guidance, and blessings from Sai Baba. The calm and devotional atmosphere of Shirdi, filled with prayers, bhajans, and a deep sense of faith, makes this yatra a source of spiritual comfort and inner strength. It is an ideal journey for devotees looking for solace, hope, and a meaningful spiritual connection.",
+    "detailedDescription": " The Shirdi Sai Baba Yatra takes pilgrims to the holy Shri Sai Baba Samadhi Mandir, where devotees offer prayers and experience the divine presence of Sai Baba. The temple complex is a place of serenity, devotion, and reflection, drawing pilgrims who believe in Sai Baba's timeless message of \"Shraddha aur Saburi\" (Faith and Patience). During the yatra, devotees may also visit other spiritually significant sites in Shirdi associated with Sai Baba's life, such as Dwarkamai, Chavadi, and Gurusthan, each carrying deep spiritual meaning. Participation in aartis and darshan provides moments of peace and devotion that touch the heart. This yatra can be planned in a comfortable and relaxed manner, suitable for individuals, families, and elderly devotees. Whether undertaken for spiritual healing, gratitude, or faith, the journey offers a deeply personal and fulfilling experience. The Shirdi Sai Baba Yatra is more than a pilgrimage—it is a journey of faith, trust, and spiritual awakening that leaves devotees with lasting peace and blessings.",
+
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Shirdi",
+        "description": "Arrive at Shirdi by train, bus, or flight. Transfer to hotel and rest. Attend evening darshan at Shri Sai Baba Samadhi Mandir and experience the serene atmosphere.",
+        "accommodation": "Premium hotel near Sai Baba Mandir",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Shirdi Sai Baba Darshan & Local Sightseeing",
+        "description": "Morning darshan at Samadhi Mandir followed by visits to Dwarkamai, Chavadi, Gurusthan, and other sacred sites associated with Sai Baba. Participate in rituals and aarti ceremonies.",
+        "accommodation": "Premium hotel near Sai Baba Mandir",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Shirdi – Departure",
+        "description": "Attend early morning prayers and final darshan at the Samadhi Mandir. Transfer to airport, railway station, or bus stand for onward journey with blessings and spiritual memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Shirdi",
+      "Accommodation in comfortable 3-star hotels near Sai Baba Mandir",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Shri Sai Baba Samadhi Mandir and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Aarti Participation",
       "Prasadam",
@@ -518,12 +1297,12 @@
     "id": 14,
     "slug": "rameshwaram-yatra",
     "title": "Rameshwaram Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Tamil Nadu",
     "region": "Coastal Tamil Nadu",
     "duration": "4 Days / 3 Nights",
-    "image": "https://tamilnadutourisminfo.com/wp-content/uploads/2019/10/Rameswaram_ramanathaswamy_temple-1.webp",
+    "image": "../../assets/images/rameswaram-temple.webp",
     "difficulty": "Easy",
     "bestSeason": ["Oct-Mar"],
     "rating": 5.0,
@@ -534,7 +1313,62 @@
       "Dhanushkodi visit",
       "Guided rituals"
     ],
-    "description": "Sacred pilgrimage to Rameshwaram, one of the Char Dhams. Experience the 22 holy kunds and visit the ghost town of Dhanushkodi.",
+    "description": "The Rameshwaram Yatra is a sacred pilgrimage to one of the holiest spiritual destinations in India, dedicated to Lord Shiva. Located on Pamban Island in Tamil Nadu, Rameshwaram holds immense religious significance as one of the twelve Jyotirlingas and an important part of the Char Dham Yatra. Surrounded by the vast ocean and steeped in ancient traditions, this yatra offers devotees a deeply spiritual experience marked by devotion, purification, and inner peace. The serene coastal atmosphere and sacred rituals make Rameshwaram an ideal destination for spiritual reflection and divine blessings.",
+    "detailedDescription": "The Rameshwaram Yatra takes pilgrims to the revered Ramanathaswamy Temple, known for its majestic corridors and sacred significance. According to legend, Lord Rama worshipped Lord Shiva here before crossing to Lanka, making this site deeply connected to the Ramayana. A key aspect of the yatra is the ritual bathing at the 22 holy theerthams (sacred wells) within the temple complex, believed to cleanse sins and purify the soul. Devotees also offer prayers to the Jyotirlinga, seeking spiritual liberation, peace, and divine blessings. The journey is suitable for pilgrims of all age groups and can be planned in a comfortable and organized manner. The spiritual rhythm of temple rituals, combined with the tranquil coastal surroundings, creates a powerful and uplifting experience. The Rameshwaram Yatra is not just a pilgrimage but a journey of purification, devotion, and spiritual awakening, leaving devotees with a sense of peace, fulfillment, and divine connection.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Rameshwaram",
+        "description": "Arrive at Rameshwaram by train or flight via Madurai. Transfer to hotel and rest. Attend evening aarti at Ramanathaswamy Temple and soak in the sacred atmosphere.",
+        "accommodation": "Premium hotel near temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Rameshwaram Darshan & Temple Visit",
+        "description": "Morning darshan at Ramanathaswamy Temple, famous for its 22 sacred wells. Visit Agni Theertham, Gandhamadhana Parvatham, and other important sites in Rameshwaram.",
+        "accommodation": "Premium hotel near temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Rameshwaram – Dhanushkodi Excursion",
+        "description": "Visit the sacred town of Dhanushkodi, the historic Pamban Bridge, and explore scenic beaches. Perform rituals and enjoy the spiritual tranquility of the region.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Rameshwaram – Madurai / Departure",
+        "description": "Attend morning prayers at Ramanathaswamy Temple. Transfer to Madurai for onward journey with divine blessings and cherished memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Rameshwaram",
+      "Accommodation in comfortable 3-star hotels near Ramanathaswamy Temple",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Ramanathaswamy Temple and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Kund Snan Guide",
       "Temple Rituals",
@@ -555,7 +1389,7 @@
     "location": "Gujarat",
     "region": "Saurashtra Coast",
     "duration": "5 Days / 4 Nights",
-    "image": "https://www.oneindiatourism.com/wp-content/uploads/2021/09/Somnath_Somnath_Temple.jpg",
+    "image": "../../assets/images/dwarka-somnath-yatra.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Oct-Mar"],
     "rating": 5.0,
@@ -566,7 +1400,69 @@
       "Bet Dwarka visit",
       "Coastal sightseeing"
     ],
-    "description": "Divine journey to Dwarka (Lord Krishna's kingdom) and Somnath (first Jyotirlinga). Experience coastal spirituality and historical temples.",
+    "description": "The Dwarka Somnath Yatra is a spiritually enriching pilgrimage that connects two of the most sacred destinations in India—Dwarka, the kingdom of Lord Krishna, and Somnath, home to the first Jyotirlinga of Lord Shiva. Located in the divine land of Gujarat, this yatra beautifully unites devotion to Lord Vishnu and Lord Shiva in a single sacred journey. Set against the backdrop of ancient temples, coastal landscapes, and deep-rooted spiritual traditions, the Dwarka Somnath Yatra offers pilgrims a powerful experience of faith, peace, and divine connection. It is an ideal journey for devotees seeking blessings, spiritual fulfillment, and a deeper understanding of India’s sacred heritage.",
+    "detailedDescription": "The Dwarka Somnath Yatra begins in Dwarka, one of the Char Dhams and the legendary city established by Lord Krishna. Pilgrims visit the revered Dwarkadhish Temple, offering prayers and experiencing the vibrant spiritual atmosphere of this ancient coastal city. The sacred waters of the Gomti River and nearby holy sites add depth to the devotional journey. The yatra then proceeds to Somnath, where devotees visit the magnificent Somnath Temple, dedicated to Lord Shiva and recognized as the first Jyotirlinga. Situated along the Arabian Sea, the temple’s powerful spiritual presence and rhythmic ocean waves create an atmosphere of devotion and reflection. This journey allows pilgrims to experience the harmonious balance of Vaishnav and Shaiv traditions, making it both spiritually complete and deeply meaningful. The yatra can be undertaken at a comfortable pace and is suitable for pilgrims of all age groups. The Dwarka Somnath Yatra is more than a pilgrimage—it is a sacred journey through faith, history, and devotion, leaving devotees with lasting peace, spiritual strength, and divine blessings.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Dwarka",
+        "description": "Arrive at Dwarka by train or flight and transfer to hotel. Evening visit to Dwarkadhish Temple for darshan and participate in the serene evening aarti.",
+        "accommodation": "Premium hotel near Dwarkadhish Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Dwarka Sightseeing",
+        "description": "Visit Bet Dwarka, Nageshwar Jyotirlinga, Rukmini Devi Temple, and other sacred sites. Enjoy a peaceful evening along Dwarka coastline and participate in local rituals.",
+        "accommodation": "Premium hotel near Dwarkadhish Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Dwarka – Somnath",
+        "description": "Drive to Somnath, visiting scenic landscapes along the way. Evening darshan at Somnath Jyotirlinga Temple and participate in the evening aarti on the temple ghats.",
+        "accommodation": "Premium hotel near Somnath Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Somnath Sightseeing",
+        "description": "Visit Bhalka Tirth, Triveni Sangam, Prabhas Patan Museum, and other historical and religious sites. Participate in morning and evening prayers at Somnath Temple.",
+        "accommodation": "Premium hotel near Somnath Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5",
+        "title": "Somnath – Departure",
+        "description": "Attend morning darshan and aarti at Somnath Temple. Transfer to railway station or airport for onward journey with divine blessings and cherished spiritual memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Dwarka and Somnath",
+      "Accommodation in comfortable 3-star hotels near temples",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Dwarkadhish Temple, Somnath Temple, and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Boat to Bet Dwarka",
       "Temple Darshan",
@@ -582,12 +1478,12 @@
     "id": 16,
     "slug": "ujjain-mahakal-yatra",
     "title": "Ujjain Mahakal Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Hindu Pilgrimage",
     "location": "Ujjain, Madhya Pradesh",
     "region": "Malwa Region",
-    "duration": "2 Days / 1 Night",
-    "image": "https://www.ujjaindarshan.com/wp-content/uploads/2025/04/main-qimg-110921dd6ebf30e537a684118672a4a2-1.webp",
+    "duration": "3 Days / 2 Night",
+    "image": "../../assets/images/ujjain-mahakal-yatra.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
     "rating": 5.0,
@@ -598,7 +1494,55 @@
       "Temple corridor visit",
       "Local sightseeing"
     ],
-    "description": "Sacred journey to Mahakaleshwar Jyotirlinga in Ujjain. Witness the unique Bhasma Aarti and explore the temple corridor.",
+    "description": "The Ujjain Mahakal Yatra is a powerful spiritual pilgrimage to the sacred city of Ujjain, home to Shri Mahakaleshwar Jyotirlinga, one of the twelve revered Jyotirlingas of Lord Shiva. Known as one of the seven holy cities (Sapta Puri), Ujjain holds immense religious and cosmic significance in Hindu tradition. Situated on the banks of the holy Shipra River, this yatra offers devotees a deeply spiritual experience marked by devotion, ancient rituals, and divine energy. The presence of Lord Mahakal, the eternal ruler of time, makes this journey especially meaningful for those seeking protection, peace, and spiritual strength.",
+    "detailedDescription": "The Ujjain Mahakal Yatra takes pilgrims to the sacred Mahakaleshwar Temple, where Lord Shiva is worshipped as Mahakal, the lord of time and death. This Jyotirlinga is unique as it is believed to be self-manifested (Swayambhu) and faces south, symbolizing supreme power and protection. One of the most significant experiences of this yatra is witnessing the Bhasma Aarti, a rare and powerful ritual performed in the early hours of the morning. Devotees believe that participating in this aarti brings divine blessings, removes negative energies, and strengthens spiritual faith. Beyond the temple, pilgrims may explore other sacred sites of Ujjain, including ancient temples and holy ghats along the Shipra River. The city’s spiritual rhythm, combined with centuries-old traditions, creates an atmosphere of deep devotion and reflection. The Ujjain Mahakal Yatra is not just a pilgrimage—it is a profound spiritual journey that connects devotees with the eternal presence of Lord Shiva, leaving them with inner peace, strength, and divine grace.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Ujjain",
+        "description": "Arrive in Ujjain by train or flight and transfer to hotel. Evening visit to Mahakaleshwar Jyotirlinga Temple for darshan and participate in the Bhasma Aarti, a spiritually unique ritual.",
+        "accommodation": "Premium hotel near Mahakaleshwar Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Ujjain Darshan & Sightseeing",
+        "description": "Morning darshan at Mahakaleshwar Temple. Visit Kal Bhairav Temple, Harsiddhi Mata Temple, Chintaman Ganesh Temple, and other sacred sites in Ujjain. Evening free for prayers or personal rituals.",
+        "accommodation": "Premium hotel near Mahakaleshwar Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Ujjain – Departure",
+        "description": "Attend early morning prayers at Mahakaleshwar Temple. Transfer to railway station or airport for onward journey with divine blessings and unforgettable spiritual memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Ujjain",
+      "Accommodation in comfortable 3-star hotels near Mahakaleshwar Temple",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Mahakaleshwar Temple and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Bhasma Aarti Pass",
       "Temple Corridor Tour",
@@ -614,12 +1558,12 @@
     "id": 17,
     "slug": "bodh-gaya-buddhist-circuit",
     "title": "Bodh Gaya Buddhist Circuit",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Buddhist Pilgrimage",
     "location": "Bihar",
     "region": "Gaya District",
     "duration": "4 Days / 3 Nights",
-    "image": "https://www.buddhisttourism.online/assets/images/bodh-gaya-banner4.webp",
+    "image": "../../assets/images/bodh-gaya-buddhist-circuit.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Oct-Mar"],
     "rating": 5.0,
@@ -630,12 +1574,67 @@
       "Monastery visits",
       "Spiritual guidance"
     ],
-    "description": "Spiritual journey to Bodh Gaya where Lord Buddha attained enlightenment. Includes meditation sessions and monastery visits.",
+    "description": "The Bodh Gaya Buddhist Circuit is a deeply spiritual and enlightening journey through the sacred sites associated with the life and teachings of Lord Buddha. Centered around Bodh Gaya, the place where Gautama Buddha attained enlightenment, this circuit attracts pilgrims, monks, and spiritual seekers from across the world. Set in a serene and meditative atmosphere, the journey offers a unique opportunity to explore Buddhist heritage, practice mindfulness, and experience inner peace. The Buddhist Circuit is ideal for those seeking spiritual understanding, cultural exploration, and a connection with the timeless path of enlightenment.",
+    "detailedDescription": "The Bodh Gaya Buddhist Circuit takes travelers through some of the most important locations in Buddhism, beginning with Bodh Gaya in Bihar. Pilgrims visit the sacred Mahabodhi Temple, a UNESCO World Heritage Site, and the revered Bodhi Tree, under which Lord Buddha attained enlightenment. The calm surroundings encourage meditation, reflection, and spiritual growth. The circuit may also include visits to other significant Buddhist destinations associated with Buddha’s life and teachings, such as ancient monasteries, meditation centers, and sacred stupas. The presence of international monasteries and monks from different traditions creates a peaceful and inclusive spiritual environment. This journey is suitable for spiritual seekers, scholars, and travelers of all age groups. It can be planned at a comfortable pace, allowing time for meditation, exploration, and cultural immersion. The Bodh Gaya Buddhist Circuit is more than a pilgrimage—it is a journey of wisdom, mindfulness, and inner transformation, offering lasting peace, clarity, and spiritual inspiration to all who undertake it.",
     "amenities": [
       "Meditation Sessions",
       "Monastery Visits",
       "Buddhist Guide",
       "Cultural Program"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Bodh Gaya",
+        "description": "Arrive in Bodh Gaya by flight or train and transfer to hotel. Evening visit to Mahabodhi Temple, the site of Lord Buddha’s enlightenment, and participate in evening meditation and rituals.",
+        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Bodh Gaya Sightseeing",
+        "description": "Visit Mahabodhi Temple complex, Bodhi Tree, Vajrasana, and Sujata Stupa. Explore local monasteries such as Thai, Tibetan, Japanese, and Bhutanese monasteries for cultural and spiritual experiences.",
+        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Bodh Gaya – Rajgir Excursion",
+        "description": "Drive to Rajgir and visit Griddhakuta Hill (Vulture’s Peak), Nalanda University ruins, and Rajgir hot springs. Evening return to Bodh Gaya and participate in meditation or evening rituals.",
+        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Bodh Gaya – Departure",
+        "description": "Attend early morning prayers and meditation at Mahabodhi Temple. Transfer to Gaya Airport or railway station for onward journey with peace, blessings, and spiritual fulfillment.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Bodh Gaya",
+      "Accommodation in comfortable 3-star hotels near Mahabodhi Temple",
+      "All meals during the yatra",
+      "Experienced local guide throughout the journey",
+      "Visits to Mahabodhi Temple and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special puja, rituals, or offerings",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Temple timings and local events may affect schedules",
+      "Early booking is advised during peak seasons",
+      "Final service details are shared before confirmation"
     ],
     "transportation": "AC Transport",
     "meals": "Vegetarian Meals",
@@ -646,12 +1645,12 @@
     "id": 18,
     "slug": "hemkund-sahib-yatra",
     "title": "Hemkund Sahib Yatra",
-    "category": "religious",
+    "category": "Religious",
     "subcategory": "Sikh Pilgrimage",
     "location": "Uttarakhand",
     "region": "Garhwal Himalayas",
     "duration": "6 Days / 5 Nights",
-    "image": "https://www.chardham-pilgrimage-tour.com/assets/images/hemkund-banner1.webp",
+    "image": "../../assets/images/hemkund-sahib-yatra.webp",
     "difficulty": "Challenging",
     "bestSeason": ["June-September"],
     "rating": 5.0,
@@ -662,7 +1661,63 @@
       "Medical support",
       "Experienced guides"
     ],
-    "description": "Challenging pilgrimage to Hemkund Sahib (4,329m) located beside a glacial lake. Complete trekking support and medical assistance.",
+    "description": "The Hemkund Sahib Yatra is a sacred and spiritually uplifting pilgrimage to Sri Hemkund Sahib, one of the highest Gurudwaras in the world, revered deeply in Sikhism. Nestled at an altitude of over 15,000 feet in the Garhwal Himalayas of Uttarakhand, this holy site is surrounded by snow-clad peaks and a serene glacial lake, creating an atmosphere of profound peace and devotion. This yatra is ideal for devotees and spiritual seekers looking for a journey that combines faith, natural beauty, and inner reflection. The tranquil environment and spiritual significance of Hemkund Sahib make it a truly divine and memorable experience.",
+    "detailedDescription": "The Hemkund Sahib Yatra takes pilgrims through a breathtaking Himalayan route leading to the sacred Sri Hemkund Sahib Gurudwara, believed to be the meditation site of Guru Gobind Singh Ji in his previous incarnation, as mentioned in Sikh scriptures. The journey typically begins from Govindghat and continues through scenic mountain paths and alpine landscapes. Pilgrims undertake a spiritually rewarding trek to reach the gurudwara, where the peaceful surroundings and sacred hymns create a deeply meditative atmosphere. The glacial Hemkund Lake, encircled by seven towering peaks, adds to the divine experience and inspires inner calm and devotion. This yatra is undertaken during a limited season each year and requires physical endurance due to high altitude and trekking conditions. With proper planning, acclimatization, and a steady pace, devotees can complete the journey safely and comfortably. The Hemkund Sahib Yatra is more than a pilgrimage—it is a journey of faith, devotion, and spiritual strength that leaves pilgrims with lasting peace, humility, and divine connection.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Bodh Gaya",
+        "description": "Arrive in Bodh Gaya by flight or train and transfer to hotel. Evening visit to Mahabodhi Temple, the site of Lord Buddha’s enlightenment, and participate in evening meditation and rituals.",
+        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 2",
+        "title": "Bodh Gaya Sightseeing",
+        "description": "Visit Mahabodhi Temple complex, Bodhi Tree, Vajrasana, and Sujata Stupa. Explore local monasteries such as Thai, Tibetan, Japanese, and Bhutanese monasteries for cultural and spiritual experiences.",
+        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 3",
+        "title": "Bodh Gaya – Rajgir Excursion",
+        "description": "Drive to Rajgir and visit Griddhakuta Hill (Vulture’s Peak), Nalanda University ruins, and Rajgir hot springs. Evening return to Bodh Gaya and participate in meditation or evening rituals.",
+        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 4",
+        "title": "Bodh Gaya – Departure",
+        "description": "Attend early morning prayers and meditation at Mahabodhi Temple. Transfer to Gaya Airport or railway station for onward journey with peace, blessings, and spiritual fulfillment.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
+    "inclusions": [
+      "Round-trip transportation from airport/railway station to Govindghat",
+      "Accommodation in comfortable guest houses and tents during the trek",
+      "All meals during the yatra",
+      "Experienced trekking guides and spiritual guides throughout the journey",
+      "Medical support and high-altitude gear",
+      "Visits to Hemkund Sahib Gurudwara and other sacred sites",
+      "On-ground support throughout the yatra",
+      "Flexible customization options",
+      "Final inclusions depend on the confirmed travel plan."
+    ],
+    "exclusions": [
+      "Personal expenses and optional activities",
+      "Special offerings or donations at the gurudwara",
+      "Travel insurance",
+      "Any services not discussed during confirmation",
+      "Exclusions may vary based on chosen services."
+    ],
+    "importantNotes": [
+      "Package details are shared for showcase purposes",
+      "Travel arrangements are fully customizable without limitations",
+      "Trek timings and weather conditions may affect schedules",
+      "Proper acclimatization is essential for high-altitude trekking",
+      "Final service details are shared before confirmation"
+    ],
     "amenities": [
       "Trekking Guide",
       "Medical Support",

@@ -9,6 +9,7 @@ const PackageDescriptions = ({
   bestSeason,
   highlights,
 }) => {
+  console.log(difficulty);
   return (
     <section className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
       <div className="flex items-center mb-6">

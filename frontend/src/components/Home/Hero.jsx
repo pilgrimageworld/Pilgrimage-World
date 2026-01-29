@@ -1,28 +1,27 @@
 import { Globe, Heart, MapPin, Users, Search } from "lucide-react";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-
 const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const heroImages = [
     {
-      url: "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?",
+      url: "./assets/images/hero-1.jpg",
       title: "Himalayan Pilgrimages",
       subtitle: "Journey to the abode of gods",
     },
     {
-      url: "https://images.unsplash.com/photo-1605553378313-22d0dc541393?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      url: "./assets/images/hero-2.jpg",
       title: "Sacred Mecca & Medina",
       subtitle: "Experience spiritual awakening",
     },
     {
-      url: "https://images.unsplash.com/photo-1603766806347-54cdf3745953?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      url: "./assets/images/hero-3.jpg",
       title: "Divine Temples",
       subtitle: "Connect with ancient spirituality",
     },
     {
-      url: "https://images.unsplash.com/photo-1629953031870-02be15a295ee?q=80&w=1192&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      url: "./assets/images/hero-4.jpg",
       title: "Buddhist Heritage",
       subtitle: "Walk the path of mindfulness and peace",
     },

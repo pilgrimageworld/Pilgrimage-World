@@ -58,7 +58,6 @@ const PackageDetails = () => {
         rating={rating}
         reviewCount={reviewCount}
       />
-
       {/* Add overflow-x-hidden to prevent horizontal scroll */}
       <div className="overflow-x-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12 lg:py-16">
