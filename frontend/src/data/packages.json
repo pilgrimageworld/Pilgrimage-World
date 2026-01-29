@@ -633,6 +633,36 @@
     "description": "The Vaishno Devi Yatra is one of the most revered pilgrimage journeys in India, drawing millions of devotees each year to seek the blessings of Mata Vaishno Devi. Located in the Trikuta Mountains of Jammu, this sacred yatra is a perfect blend of faith, devotion, and scenic beauty. The journey offers pilgrims a deeply spiritual experience along with the peaceful charm of the surrounding hills. This yatra is suitable for devotees of all age groups and can be planned in a comfortable and well-organized manner. Our showcase reflects a smooth and spiritually fulfilling journey, allowing pilgrims to focus on devotion while enjoying a seamless travel experience.",
 
     "detailedDescription": "The Vaishno Devi Yatra begins from the holy town of Katra, the base point for the pilgrimage, from where devotees undertake a spiritually uplifting trek to the sacred Vaishno Devi Bhawan. Surrounded by the serene landscapes of the Trikuta Hills, the journey offers moments of reflection, devotion, and inner peace. Pilgrims visit the holy cave shrine where Mata Vaishno Devi is worshipped in the form of three natural pindis, symbolizing Maha Kali, Maha Lakshmi, and Maha Saraswati. The yatra is considered a divine calling, and completing it is believed to bring spiritual fulfillment and blessings. This journey can be planned at a comfortable pace, with options that suit different travel preferences and physical abilities. From basic pilgrimage arrangements to more convenient and premium travel styles, the experience can be tailored to individual needs. The Vaishno Devi Yatra is not just a religious visit but a deeply meaningful spiritual journey that leaves devotees with lasting peace, faith, and devotion.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival – Jammu – Katra",
+        "description": "Arrive at Jammu and transfer to Katra, the base camp for Vaishno Devi Yatra. Check in to the hotel and attend a briefing about the yatra.",
+        "accommodation": "Comfortable hotel in Katra",
+        "meals": "Dinner"
+      },
+      {
+        "day": "Day 2",
+        "title": "Katra – Vaishno Devi Darshan – Katra",
+        "description": "Begin the trek to Vaishno Devi Bhawan. Perform darshan at the holy cave shrine and return to Katra for rest and relaxation.",
+        "accommodation": "Comfortable hotel in Katra",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": "Day 3",
+        "title": "Katra – Local Sightseeing – Jammu",
+        "description": "After breakfast, proceed to Jammu for local sightseeing including Raghunath Temple, Bahu Fort, and other attractions. Check in to the hotel in Jammu.",
+        "accommodation": "Comfortable hotel in Jammu",
+        "meals": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": "Day 4",
+        "title": "Jammu – Departure",
+        "description": "After breakfast, transfer to Jammu Airport/Railway Station for onward journey with spiritual blessings and cherished memories.",
+        "accommodation": "—",
+        "meals": "Breakfast"
+      }
+    ],
     "amenities": [
       "Helicopter Booking",
       "VIP Darshan",
@@ -730,6 +760,13 @@
       },
       {
         "day": "Day 6",
+        "title": "Srinagar – Pahalgam – Srinagar",
+        "description": "Excursion to the scenic valley of Pahalgam, also known as the Valley of Shepherds. Visit Betaab Valley, Aru Valley, and Lidder River. Return to Srinagar by evening.",
+        "accommodation": "Premium hotel",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 7",
         "title": "Srinagar – Jammu – Departure",
         "description": "Transfer to Jammu for onward journey with divine blessings and unforgettable memories of the sacred Amarnath Yatra.",
         "accommodation": "—",
@@ -781,7 +818,7 @@
     "subcategory": "Hindu Pilgrimage",
     "location": "Uttar Pradesh",
     "region": "Braj Bhoomi",
-    "duration": "3 Days / 2 Nights",
+    "duration": "4 Days / 3 Nights",
     "image": "../../assets/images/vrindavan-mathura-yatra.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round", "Best: Jan-March, Sep-Dec"],
@@ -869,7 +906,7 @@
     "subcategory": "Sikh Pilgrimage",
     "location": "Amritsar, Punjab",
     "region": "Punjab Plains",
-    "duration": "3 Days / 2 Nights",
+    "duration": "4 Days / 3 Nights",
     "image": "../../assets/images/golden-temple.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
@@ -958,7 +995,7 @@
     "subcategory": "Hindu Pilgrimage",
     "location": "Ayodhya, Uttar Pradesh",
     "region": "Awadh Region",
-    "duration": "2 Days / 1 Night",
+    "duration": "4 Days / 3 Nights",
     "image": "../../assets/images/ayodhya-ram-mandir.jpg",
     "difficulty": "Easy",
     "bestSeason": ["Year-round"],
@@ -1666,29 +1703,43 @@
     "itinerary": [
       {
         "day": "Day 1",
-        "title": "Arrival – Bodh Gaya",
-        "description": "Arrive in Bodh Gaya by flight or train and transfer to hotel. Evening visit to Mahabodhi Temple, the site of Lord Buddha’s enlightenment, and participate in evening meditation and rituals.",
-        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "title": "Arrival – Haridwar / Rishikesh – Joshimath",
+        "description": "Arrive at Haridwar or Rishikesh and begin the scenic mountain drive towards Joshimath via Devprayag, Rudraprayag, and Karnaprayag. Witness the sacred river confluences and Himalayan landscapes en route.",
+        "accommodation": "Hotel in Joshimath",
         "meals": "All meals"
       },
       {
         "day": "Day 2",
-        "title": "Bodh Gaya Sightseeing",
-        "description": "Visit Mahabodhi Temple complex, Bodhi Tree, Vajrasana, and Sujata Stupa. Explore local monasteries such as Thai, Tibetan, Japanese, and Bhutanese monasteries for cultural and spiritual experiences.",
-        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "title": "Joshimath – Govindghat – Ghangaria",
+        "description": "Drive from Joshimath to Govindghat, the base point for the Hemkund Sahib trek. Begin the trek towards Ghangaria, passing through lush valleys and mountain streams. Optional pony or porter services available.",
+        "accommodation": "Guest house / lodge in Ghangaria",
         "meals": "All meals"
       },
       {
         "day": "Day 3",
-        "title": "Bodh Gaya – Rajgir Excursion",
-        "description": "Drive to Rajgir and visit Griddhakuta Hill (Vulture’s Peak), Nalanda University ruins, and Rajgir hot springs. Evening return to Bodh Gaya and participate in meditation or evening rituals.",
-        "accommodation": "Premium hotel near Mahabodhi Temple",
+        "title": "Ghangaria – Hemkund Sahib – Ghangaria",
+        "description": "Early morning trek to the sacred Hemkund Sahib Gurudwara (15,200 ft). Take a holy dip in the glacial Hemkund Lake (weather permitting) and participate in prayers and kirtan at the gurudwara. Return to Ghangaria after darshan.",
+        "accommodation": "Guest house / lodge in Ghangaria",
         "meals": "All meals"
       },
       {
         "day": "Day 4",
-        "title": "Bodh Gaya – Departure",
-        "description": "Attend early morning prayers and meditation at Mahabodhi Temple. Transfer to Gaya Airport or railway station for onward journey with peace, blessings, and spiritual fulfillment.",
+        "title": "Ghangaria – Valley of Flowers – Ghangaria",
+        "description": "Visit the renowned Valley of Flowers National Park, a UNESCO World Heritage Site known for its alpine blooms and natural beauty. After exploration, return to Ghangaria by afternoon.",
+        "accommodation": "Guest house / lodge in Ghangaria",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 5",
+        "title": "Ghangaria – Govindghat – Joshimath",
+        "description": "Trek down from Ghangaria to Govindghat and drive back to Joshimath. Evening at leisure for rest and reflection after the spiritually uplifting journey.",
+        "accommodation": "Hotel in Joshimath",
+        "meals": "All meals"
+      },
+      {
+        "day": "Day 6",
+        "title": "Joshimath – Haridwar / Rishikesh – Departure",
+        "description": "Drive back to Haridwar or Rishikesh for onward journey, carrying divine blessings, peace, and unforgettable memories of the sacred Hemkund Sahib Yatra.",
         "accommodation": "—",
         "meals": "Breakfast"
       }
