@@ -48,63 +48,64 @@ const PackageDetails = () => {
   return (
     <>
       <Navbar />
-      <Hero
-        title={title}
-        image={image}
-        category={category}
-        location={location}
-        region={region}
-        duration={duration}
-        rating={rating}
-        reviewCount={reviewCount}
-      />
-      {/* Add overflow-x-hidden to prevent horizontal scroll */}
-      <div className="overflow-x-hidden">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12 lg:py-16">
-          {/* Change px-4 to responsive padding */}
-          <div className="grid lg:grid-cols-3 gap-6 md:gap-8">
-            {/* Left Column - Main Content */}
-            <div className="lg:col-span-2 space-y-8 md:space-y-12">
-              {/* Package Description */}
-              <PackageDescriptions
-                category={category}
-                subcategory={subcategory}
-                bestSeason={bestSeason}
-                description={description}
-                detailedDescription={detailedDescription}
-                difficulty={difficulty}
-                highlights={highlights}
-              />
+      <div className="pt-20 min-h-screen bg-linear-to-b from-sky-50 via-white to-amber-50">
+        <Hero
+          title={title}
+          image={image}
+          category={category}
+          location={location}
+          region={region}
+          duration={duration}
+          rating={rating}
+          reviewCount={reviewCount}
+        />
+        {/* Add overflow-x-hidden to prevent horizontal scroll */}
+        <div className="overflow-x-hidden">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12 lg:py-16">
+            {/* Change px-4 to responsive padding */}
+            <div className="grid lg:grid-cols-3 gap-6 md:gap-8">
+              {/* Left Column - Main Content */}
+              <div className="lg:col-span-2 space-y-8 md:space-y-12">
+                {/* Package Description */}
+                <PackageDescriptions
+                  category={category}
+                  subcategory={subcategory}
+                  bestSeason={bestSeason}
+                  description={description}
+                  detailedDescription={detailedDescription}
+                  difficulty={difficulty}
+                  highlights={highlights}
+                />
 
-              {/* Itinerary */}
-              <Itinerary itinerary={itinerary} />
+                {/* Itinerary */}
+                <Itinerary itinerary={itinerary} />
 
-              {/* Inclusions & Exclusions */}
-              <InclusionsExclusions
-                inclusions={inclusions}
-                exclusions={exclusions}
-              />
+                {/* Inclusions & Exclusions */}
+                <InclusionsExclusions
+                  inclusions={inclusions}
+                  exclusions={exclusions}
+                />
 
-              <Amenities
-                amenities={amenities}
-                transportation={transportation}
-                meals={meals}
-                accommodation={accommodation}
-              />
+                <Amenities
+                  amenities={amenities}
+                  transportation={transportation}
+                  meals={meals}
+                  accommodation={accommodation}
+                />
 
-              <ImportantDetails importantNotes={importantNotes} />
+                <ImportantDetails importantNotes={importantNotes} />
+              </div>
+
+              {/* Right Column - Sidebar */}
+              <Sidebar />
             </div>
-
-            {/* Right Column - Sidebar */}
-            <Sidebar />
           </div>
+
+          {/* Testimonial Banner */}
+          <Testimonial />
         </div>
-
-        {/* Testimonial Banner */}
-        <Testimonial />
+        <Footer />
       </div>
-
-      <Footer />
     </>
   );
 };

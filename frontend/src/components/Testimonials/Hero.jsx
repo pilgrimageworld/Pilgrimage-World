@@ -171,16 +171,6 @@ const TestimonialHero = () => {
               </p>
             </div>
           </div>
-
-          {/* Call to action */}
-          <div className="text-center mt-12">
-            <button className="bg-white text-amber-700 hover:bg-amber-50 font-bold py-4 px-10 rounded-full text-lg transition-all duration-300 shadow-lg hover:shadow-xl">
-              Start Your Spiritual Journey
-            </button>
-            <p className="text-amber-100 mt-4">
-              Join our community of faithful travelers
-            </p>
-          </div>
         </div>
       </div>
     </section>
