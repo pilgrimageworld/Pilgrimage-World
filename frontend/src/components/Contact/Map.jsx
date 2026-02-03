@@ -33,9 +33,7 @@ const Map = () => {
               <InfoBlock
                 title="Headquarters"
                 content={[
-                  "123 Spiritual Ave",
-                  "Faith City, FC 10001",
-                  "United States",
+                  "C-143, 1st Floor, Naraina Industrial Area, Phase-1, New Delhi-110028.",
                 ]}
               />
               <InfoBlock
@@ -43,15 +41,12 @@ const Map = () => {
                 content={[
                   "Free visitor parking available",
                   "Accessible parking spaces",
-                  "Underground garage",
                 ]}
               />
               <InfoBlock
-                title="Public Transport"
+                title="Metro Transport"
                 content={[
-                  "Bus: Lines 12, 45, 78",
-                  "Subway: Faith City Station",
-                  "Train: Spiritual Line",
+                  "Naraina Vihar Metro Station (Pink Line) - 10 min walk",
                 ]}
               />
             </div>

@@ -38,7 +38,6 @@ const Contact = () => {
             <div className="lg:col-span-2 order-2 lg:order-2" id="book-now">
               <div className="space-y-6 md:space-y-8">
                 <ContactForm />
-                <FAQSection />
               </div>
             </div>
           </div>

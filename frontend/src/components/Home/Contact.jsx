@@ -15,17 +15,14 @@ const Contact = () => {
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm px-6 py-4 rounded-full">
               <Phone className="w-5 h-5" />
-              <Link to="tel:+15551234567" className="font-semibold">
-                +1 (800) 123-4567
+              <Link to="tel:+911143757575" className="font-semibold">
+                +91 11 4375 7575
               </Link>
             </div>
             <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm px-6 py-4 rounded-full">
               <Mail className="w-5 h-5" />
-              <Link
-                to="mailto:info@pilgrimageworld.com"
-                className="font-semibold"
-              >
-                info@pilgrimageworld.com
+              <Link to="mailto:info@airparadise.in" className="font-semibold">
+                info@airparadise.in
               </Link>
             </div>
           </div>

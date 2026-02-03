@@ -21,7 +21,7 @@ const CTA = () => {
               <ChevronRight className="h-5 w-5 ml-2" />
             </a>
             <a
-              href="tel:+15551234567"
+              href="tel:+911143757575"
               className="px-8 py-4 bg-transparent border-2 border-white text-white rounded-full font-bold text-lg hover:bg-white/20 transition-colors duration-300"
             >
               Speak with an Expert

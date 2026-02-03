@@ -12,7 +12,6 @@ const Sidebar = () => {
           </h3>
           <p className="text-gray-600">Secure your spot with easy booking</p>
         </div>
-
         <div className="space-y-6">
           <div className="space-y-4">
             <Link
@@ -21,9 +20,8 @@ const Sidebar = () => {
             >
               Book Now
             </Link>
-
             <Link
-              to="tel:+15551234567"
+              to="tel:+911143757575"
               className="block w-full bg-white text-amber-600 py-4 rounded-xl font-semibold text-center border-2 border-amber-600 hover:bg-amber-50 transition-colors"
             >
               Enquire Now
@@ -45,7 +43,6 @@ const Sidebar = () => {
             </div>
           </div>
         </div>
-
         <Link
           to="/packages"
           className="flex items-center justify-center mt-8 text-gray-700 hover:text-amber-600 font-medium group"
